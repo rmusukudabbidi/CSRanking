@@ -1,0 +1,306 @@
+{
+    "universities": [
+      {
+        "id": 1,
+        "name": "Carnegie Mellon University",
+        "sub_area_publications": [114, 201, 606, 211, 31, 49, 39, 58, 33, 1, 4, 3, 11, 13, 26, 32, 43, 92, 42, 8, 12, 54, 3, 3, 241, 168, 5]
+      },
+      {
+        "id": 2,
+        "name": "University of Illinois at Urbana-Champaign",
+        "sub_area_publications": [55, 136, 304, 129, 63, 92, 33, 82, 16, 9, 12, 12, 16, 3, 12, 14, 37, 32, 29, 7, 3, 0, 26, 0, 54, 61, 6]
+      },
+      {
+        "id": 3,
+        "name": "University of California - San Diego",
+        "sub_area_publications": [47, 181, 355, 97, 17, 37, 17, 57, 25, 27, 0, 8, 28, 24, 10, 18, 5, 34, 22, 4, 1, 42, 45, 1, 65, 76, 2]
+      },
+      {
+        "id": 4,
+        "name": "Georgia Institute of Technology",
+        "sub_area_publications": [54, 95, 300, 66, 24, 36, 8, 111, 24, 25, 0, 12, 7, 22, 5, 9, 9, 36, 12, 3, 3, 19, 4, 1, 113, 149, 27]
+      },
+      {
+        "id": 5,
+        "name": "University of Michigan",
+        "sub_area_publications": [36, 82, 133, 69, 21, 47, 20, 46, 24, 9, 6, 1, 17, 6, 12, 8, 14, 73, 6, 2, 0, 2, 3, 7, 95, 35, 5]
+      },
+      {
+        "id": 6,
+        "name": "University of Washington",
+        "sub_area_publications": [20, 69, 294, 212, 8, 30, 22, 34, 18, 1, 2, 1, 15, 6, 11, 9, 10, 35, 37, 1, 3, 15, 7, 1, 190, 33, 12]
+      },
+      {
+        "id": 7,
+        "name": "University of Maryland - College Park",
+        "sub_area_publications": [76, 155, 321, 77, 13, 3, 14, 53, 14, 14, 1, 2, 6, 4, 1, 11, 6, 11, 13, 0, 5, 11, 11, 3, 43, 82, 22]
+      },
+      {
+        "id": 8,
+        "name": "Cornell University",
+        "sub_area_publications": [20, 120, 148, 65, 60, 55, 50, 45, 40, 37, 35, 33, 30, 28, 25, 24, 22, 20, 18, 15, 13, 12, 10, 8, 5, 3, 2]
+      },
+      {
+        "id": 9,
+        "name": "Stanford University",
+        "sub_area_publications": [15, 87, 125, 68, 62, 103, 49, 43, 39, 36, 33, 30, 29, 27, 24, 23, 21, 19, 16, 13, 11, 10, 8, 7, 4, 2, 1]
+      },
+      {
+        "id": 10,
+        "name": "Massachusetts Institute of Technology",
+        "sub_area_publications": [10, 84, 122, 65, 58, 100, 47, 41, 38, 35, 32, 29, 27, 26, 22, 20, 18, 17, 15, 12, 10, 9, 7, 6, 4, 3, 1]
+      },
+      {
+        "id": 11,
+        "name": "University of California - Berkeley",
+        "sub_area_publications": [5, 82, 129, 103, 57, 48, 45, 40, 35, 33, 30, 28, 26, 24, 21, 19, 17, 15, 14, 12, 9, 7, 6, 5, 4, 2, 1]
+      },
+      {
+        "id": 12,
+        "name": "Purdue University",
+        "sub_area_publications": [10, 78, 105, 108, 53, 45, 42, 38, 33, 30, 27, 25, 23, 21, 18, 16, 15, 13, 11, 9, 8, 6, 5, 4, 3, 2, 1]
+      },
+      {
+        "id": 13,
+        "name": "Northeastern University",
+        "sub_area_publications": [15, 75, 120, 75, 48, 40, 38, 33, 30, 28, 25, 23, 21, 20, 17, 15, 13, 12, 10, 8, 7, 5, 4, 3, 2, 1, 1]
+      },
+      {
+        "id": 14,
+        "name": "Princeton University",
+        "sub_area_publications": [9, 72, 139, 52, 45, 39, 35, 31, 28, 26, 24, 21, 19, 18, 16, 14, 12, 11, 9, 7, 6, 5, 3, 3, 2, 1, 1]
+      },
+      {
+        "id": 15,
+        "name": "University of Texas at Austin",
+        "sub_area_publications": [85, 69, 54, 50, 42, 36, 33, 30, 26, 24, 22, 20, 18, 16, 14, 13, 11, 9, 8, 6, 5, 4, 3, 2, 2, 1, 1]
+      },
+      {
+        "id": 16,
+        "name": "New York University",
+        "sub_area_publications": [82, 66, 50, 47, 39, 34, 30, 28, 25, 23, 20, 18, 17, 15, 13, 12, 10, 8, 7, 6, 4, 3, 2, 2, 1, 1, 1]
+      },
+      {
+        "id": 17,
+        "name": "University of Pennsylvania",
+        "sub_area_publications": [78, 63, 48, 44, 36, 31, 28, 25, 23, 21, 18, 16, 14, 13, 12, 11, 9, 7, 6, 5, 3, 3, 2, 1, 1, 1, 1]
+      },
+      {
+        "id": 18,
+        "name": "University of Massachusetts Amherst",
+        "sub_area_publications": [75, 60, 45, 41, 33, 30, 26, 23, 20, 19, 16, 14, 12, 11, 10, 9, 8, 6, 5, 4, 3, 2, 1, 1, 1, 1, 1]
+      },
+      {
+        "id": 19,
+        "name": "University of Southern California",
+        "sub_area_publications": [72, 57, 43, 38, 31, 28, 25, 22, 19, 18, 15, 13, 11, 10, 9, 8, 7, 5, 4, 3, 2, 1, 1, 1, 1, 1, 1]
+      },
+      {
+        "id": 20,
+        "name": "University of Wisconsin - Madison",
+        "sub_area_publications": [69, 54, 40, 35, 29, 26, 23, 20, 17, 15, 13, 11, 10, 9, 8, 6, 5, 4, 3, 2, 2, 1, 1, 1, 1, 1, 1]
+      },    
+    {
+      "id": 21,
+      "name": "University of California - Los Angeles",
+      "sub_area_publications": [3, 42, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+    },
+    {
+      "id": 22,
+      "name": "Columbia University",
+      "sub_area_publications": [3, 51, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+    },
+    {
+      "id": 23,
+      "name": "Stony Brook University",
+      "sub_area_publications": [3, 60, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+    },
+    {
+      "id": 24,
+      "name": "University of Chicago",
+      "sub_area_publications": [3, 47, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+    },
+    {
+      "id": 25,
+      "name": "University of California - Irvine",
+      "sub_area_publications": [3, 60, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+    },
+    {
+      "id": 26,
+      "name": "George Mason University",
+      "sub_area_publications": [2, 49, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+    },
+    {
+      "id": 27,
+      "name": "Pennsylvania State University",
+      "sub_area_publications": [2, 53, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+    },
+    {
+      "id": 28,
+      "name": "University of California - Riverside",
+      "sub_area_publications": [2, 47, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+    },
+    {
+      "id": 29,
+      "name": "University of Virginia",
+      "sub_area_publications": [2, 48, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+    },
+    {
+      "id": 30,
+      "name": "Duke University",
+      "sub_area_publications": [2, 44, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+    },
+    {
+      "id": 31,
+      "name": "Rutgers University",
+      "sub_area_publications": [2, 46, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+    },
+    {
+      "id": 32,
+      "name": "University of California - Santa Barbara",
+      "sub_area_publications": [2, 37, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+    },
+    {
+      "id": 33,
+      "name": "University of Utah",
+      "sub_area_publications": [2, 54, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+    },
+    {
+      "id": 34,
+      "name": "Northwestern University",
+      "sub_area_publications": [2, 48, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+    },
+    {
+      "id": 35,
+      "name": "Texas A&M University",
+      "sub_area_publications": [1, 43, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+    },
+    {
+        "id": 36,
+        "name": "Arizona State University",
+        "sub_area_publications": [2, 52, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 37,
+        "name": "North Carolina State University",
+        "sub_area_publications": [2, 49, 30, 71, 190, 40, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 38,
+        "name": "Johns Hopkins University",
+        "sub_area_publications": [2, 51, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 39,
+        "name": "Ohio State University",
+        "sub_area_publications": [2, 43, 30, 71, 230, 45, 18, 34, 25, 20, 41, 3, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 40,
+        "name": "University of California - Davis",
+        "sub_area_publications": [2, 37, 30, 71, 230, 45, 18, 24, 15, 40, 30, 4, 0, 6, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 41,
+        "name": "University at Buffalo",
+        "sub_area_publications": [2, 57, 18, 121, 120, 95, 27, 34, 19, 40, 30, 0, 0, 40, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 42,
+        "name": "University of Central Florida",
+        "sub_area_publications": [2, 47, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 43,
+        "name": "University of Illinois at Chicago",
+        "sub_area_publications": [2, 40, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 44,
+        "name": "Yale University",
+        "sub_area_publications": [2, 37, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 45,
+        "name": "Boston University",
+        "sub_area_publications": [2, 39, 33, 89, 218, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 46,
+        "name": "Brown University",
+        "sub_area_publications": [2, 29, 28, 51, 251, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 47,
+        "name": "Rochester Institute of Technology",
+        "sub_area_publications": [2, 45, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 48,
+        "name": "University of Minnesota",
+        "sub_area_publications": [2, 36, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 49,
+        "name": "University of North Carolina",
+        "sub_area_publications": [2, 35, 25, 100, 215, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 50,
+        "name": "Harvard University",
+        "sub_area_publications": [2, 27, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 51,
+        "name": "Indiana University",
+        "sub_area_publications": [2, 46, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 52,
+        "name": "Rice University",
+        "sub_area_publications": [2, 27, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 53,
+        "name": "University of Colorado Boulder",
+        "sub_area_publications": [2, 46, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 54,
+        "name": "Michigan State University",
+        "sub_area_publications": [1, 25, 30, 71, 230, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 55,
+        "name": "Oregon State University",
+        "sub_area_publications": [1, 32, 30, 75, 180, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 56,
+        "name": "University of Rochester",
+        "sub_area_publications": [1, 24, 30, 102, 178, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 57,
+        "name": "University of Delaware",
+        "sub_area_publications": [1, 24, 89, 121, 118, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 58,
+        "name": "College of William and Mary",
+        "sub_area_publications": [1, 19, 97, 90, 189, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 59,
+        "name": "Dartmouth College",
+        "sub_area_publications": [1, 22, 89, 56, 167, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      },
+      {
+        "id": 60,
+        "name": "Florida State University",
+        "sub_area_publications": [1, 13, 21, 69, 240, 45, 18, 24, 25, 40, 30, 6, 0, 2, 1, 3, 10, 20, 1, 24, 13, 8, 0, 15, 2, 14, 56, 52, 2]
+      }
+
+    ]
+}
+  

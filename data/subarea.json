@@ -1,0 +1,54 @@
+[
+    {
+      "category_id": 1,
+      "category_name": "Artificial Intelligence",
+      "sub_areas": [
+        { "sub_area_id": 1, "name": "Artificial intelligence" },
+        { "sub_area_id": 2, "name": "Computer vision" },
+        { "sub_area_id": 3, "name": "Machine learning" },
+        { "sub_area_id": 4, "name": "Natural language processing" },
+        { "sub_area_id": 5, "name": "The Web & information retrieval" }
+      ]
+    },
+    {
+      "category_id": 2,
+      "category_name": "Systems",
+      "sub_areas": [
+        { "sub_area_id": 6, "name": "Computer architecture" },
+        { "sub_area_id": 7, "name": "Computer networks" },
+        { "sub_area_id": 8, "name": "Computer security" },
+        { "sub_area_id": 9, "name": "Databases" },
+        { "sub_area_id": 10, "name": "Design automation" },
+        { "sub_area_id": 11, "name": "Embedded & real-time systems" },
+        { "sub_area_id": 12, "name": "High-performance computing" },
+        { "sub_area_id": 13, "name": "Mobile computing" },
+        { "sub_area_id": 14, "name": "Measurement & perf. analysis" },
+        { "sub_area_id": 15, "name": "Operating systems" },
+        { "sub_area_id": 16, "name": "Programming languages" },
+        { "sub_area_id": 17, "name": "Software engineering" }
+      ]
+    },
+    {
+      "category_id": 3,
+      "category_name": "Theory",
+      "sub_areas": [
+        { "sub_area_id": 18, "name": "Algorithms & complexity" },
+        { "sub_area_id": 19, "name": "Cryptography" },
+        { "sub_area_id": 20, "name": "Logic & verification" }
+      ]
+    },
+    {
+      "category_id": 4,
+      "category_name": "Interdisciplinary Areas",
+      "sub_areas": [
+        { "sub_area_id": 21, "name": "Comp. bio & bioinformatics" },
+        { "sub_area_id": 22, "name": "Computer graphics" },
+        { "sub_area_id": 23, "name": "Computer science education" },
+        { "sub_area_id": 24, "name": "Economics & computation" },
+        { "sub_area_id": 25, "name": "Human-computer interaction" },
+        { "sub_area_id": 26, "name": "Robotics" },
+        { "sub_area_id": 27, "name": "Visualization" }
+      ]
+    }
+  ]
+  

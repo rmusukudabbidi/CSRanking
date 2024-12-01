@@ -1,50 +1,86 @@
-# Welcome to your Expo app 👋
+CSRankings Mobile App Overview
+==============================
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This project is a React Native implementation of the **CSRankings** website, designed specifically for mobile devices. The goal was to provide an optimized, user-friendly experience for Android and iOS users to explore and interact with computer science rankings.
 
-## Get started
+* * * * *
 
-1. Install dependencies
+Features
+--------
 
-   ```bash
-   npm install
-   ```
+-   **Homepage**: Displays a list of institutions ranked by publication data, with a search bar and dynamic filters.
+-   **Institution Details**: A detailed page for each institution, showcasing faculty, publication statistics, and external links (Google Scholar, DBLP, etc.).
+-   **Charts**: Interactive bar charts for visualizing publication data by research areas.
+-   **About Page**: Provides information about CSRankings, including helpful links and acknowledgments.
+-   **Cross-Platform Compatibility**: Fully functional on both Android and iOS.
 
-2. Start the app
+* * * * *
 
-   ```bash
-    npx expo start
-   ```
+Getting Started
+---------------
 
-In the output, you'll find options to open the app in a
+### Installation
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+1.  Install the required dependencies:
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+    bash
 
-## Get a fresh project
+    `npm install`
 
-When you're ready, run:
+2.  Start the app:
 
-```bash
-npm run reset-project
-```
+    bash
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+    `npx expo start`
 
-## Learn more
+3.  Open the app in an emulator, simulator, or physical device using the Expo Go app or a development build.
 
-To learn more about developing your project with Expo, look at the following resources:
+* * * * *
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Project Structure
+-----------------
 
-## Join the community
+### Key Components
 
-Join our community of developers creating universal apps.
+-   **HomeScreen.js**: Implements the homepage with a ranking list, search bar, and filter functionality.
+-   **InstitutionDetails.js**: Displays detailed information about selected institutions.
+-   **ChartScreen.js**: Provides dynamic bar charts for research area publication data.
+-   **AboutScreen.js**: Includes information about CSRankings, useful links, and acknowledgments.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+### Data Handling
+
+-   Static JSON files (`universities.json`, `rank.json`, `subarea.json`, `faculty.json`) were created and used to simulate backend data.
+-   Data was dynamically linked and parsed to maintain accurate relationships between institutions and their faculty/publications.
+
+* * * * *
+
+Usage
+-----
+
+1.  **Homepage**: Start by searching or filtering through the list of ranked institutions.
+2.  **Institution Details**: Tap an institution to view its faculty and publication details.
+3.  **Charts**: Navigate to the charts page to explore visualized data by research areas.
+4.  **About Page**: Learn more about CSRankings and access external resources.
+
+* * * * *
+
+Testing
+-------
+
+-   **Manual Testing**: Verified all screens and features on Android and iOS simulators.
+-   **Automated Testing**:
+    -   Unit tests were written using **jest** and **@testing-library/react-native**.
+    -   Major tests included:
+        -   Verifying the rendering of components such as filters and charts.
+        -   Validating navigation and data integrity.
+        -   Ensuring dynamic filtering and sorting functions work correctly.
+
+* * * * *
+
+Future Enhancements
+-------------------
+
+1.  **Backend Integration**: Replace static JSON files with live data from a server.
+2.  **Advanced Charts**: Include additional visualizations and real-time interactivity.
+3.  **Responsiveness**: Improve layout optimization for tablets and larger devices.
+4.  **User Profiles**: Add functionality to save preferences or favorite institutions.

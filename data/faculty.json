@@ -1,0 +1,3063 @@
+[
+    {
+      "id": 1,
+      "name": "Carnegie Mellon University",
+      "faculty": [
+        {
+          "name": "Graham Neubig",
+          "area": ["nlp"],
+          "homepage": "https://www.phontron.com/",
+          "google_scholar": "https://scholar.google.com/citations?user=wlosgkoAAAAJ&hl=en&oi=ao",
+          "dblp": "https://scholar.google.com/citations?user=wlosgkoAAAAJ&hl=en&oi=ao",
+          "publications": 80,
+          "adj_count": 17.0
+        },
+        {
+          "name": "J. Zico Kolter",
+          "area": ["ml"],
+          "homepage": "https://zicokolter.com/",
+          "google_scholar": "https://scholar.google.com/citations?user=UXh1I6UAAAAJ&hl=en&oi=ao",
+          "dblp": "https://dblp.org/pid/67/2526.html",
+          "publications": 71,
+          "adj_count": 18.2
+        },
+        {
+          "name": "David P. Woodruff",
+          "area": ["ml", "theory"],
+          "homepage": "https://www.cs.cmu.edu/~dwoodruf/",
+          "google_scholar": "https://scholar.google.com/citations?user=kMmxbbIAAAAJ&hl=en&oi=ao",
+          "dblp": "https://dblp.org/pid/w/DPWoodruff.html",
+          "publications": 65,
+          "adj_count": 20.5
+        },
+        {
+            "name": "Lei Li 0005",
+            "area": ["nlp"],
+            "homepage": "https://lileicc.github.io/",
+            "google_scholar": "https://scholar.google.com/citations?user=BYXqAlwAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/13/7007-5.html",
+            "publications": 59,
+            "adj_count": 12.3
+          },
+          {
+            "name": "Deva Ramanan",
+            "area": ["vision"],
+            "homepage": "https://www.cs.cmu.edu/~deva/",
+            "google_scholar": "https://scholar.google.com/citations?user=9B8PoXUAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/49/488.html",
+            "publications": 54,
+            "adj_count": 11.6
+          }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "University of Illinois at Urbana-Champaign",
+      "faculty": [
+        {
+          "name": "Heng Ji",
+          "area": ["nlp"],
+          "homepage": "https://blender.cs.illinois.edu/hengji.html",
+          "google_scholar": "https://scholar.google.com/citations?user=z7GCqT4AAAAJ&hl=en&oi=ao",
+          "dblp": "https://dblp.org/pid/61/2408.html",
+          "publications": 86,
+          "adj_count": 17.1
+        },
+        {
+          "name": "Jiawei Han 0001",
+          "area": ["nlp", "web+ir"],
+          "homepage": "https://hanj.cs.illinois.edu/",
+          "google_scholar": "https://scholar.google.com/citations?user=Kv9AbjMAAAAJ&hl=en&oi=ao",
+          "dblp": "https://dblp.org/pid/h/JiaweiHan.html",
+          "publications": 69,
+          "adj_count": 12.1
+        },
+        {
+            "name": "Yu-Xiong Wang",
+            "area": ["vision", "ml"],
+            "homepage": "https://yxw.web.illinois.edu/",
+            "google_scholar": "https://scholar.google.com/citations?user=T_Q-xDkAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/35/10700.html",
+            "publications": 50,
+            "adj_count": 13.3
+        },
+        {
+            "name": "Alexander G. Schwing",
+            "area": ["vision", "ml"],
+            "homepage": "https://www.alexander-schwing.de/",
+            "google_scholar": "https://scholar.google.com/citations?user=3B2c31wAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/79/9775.html",
+            "publications": 46,
+            "adj_count": 10.9
+        },
+        {
+            "name": "Jimeng Sun 0001",
+            "area": ["ai", "ml"],
+            "homepage": "http://sunlab.org/",
+            "google_scholar": "https://scholar.google.com/citations?user=9jmmp5sAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/54/4948.html",
+            "publications": 43,
+            "adj_count": 10.8
+        }
+      ]
+    },
+    {
+        "id": 3,
+        "name": "University of California - San Diego",
+        "faculty": [
+          {
+            "name": "Xiaolong Wang 0004",
+            "area": ["vision", "ml"],
+            "homepage": "https://xiaolonw.github.io/",
+            "google_scholar": "https://scholar.google.com/citations?user=Y8O9N_0AAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/91/952-4.html",
+            "publications": 70,
+            "adj_count": 15.9
+          },
+          {
+            "name": "Hao Su 0001",
+            "area": ["vision", "ml"],
+            "homepage": "https://ai.ucsd.edu/~haosu",
+            "google_scholar": "https://scholar.google.com/citations?user=1P8Zu04AAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pers/hd/s/Su_0001:Hao",
+            "publications": 49,
+            "adj_count": 8.2
+          },
+          {
+              "name": "Julian J. McAuley",
+              "area": ["nlp"],
+              "homepage": "https://cseweb.ucsd.edu/~jmcauley/",
+              "google_scholar": "https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/29/3483.html",
+              "publications": 46,
+              "adj_count": 10.5
+          },
+          {
+              "name": "Jingbo Shang",
+              "area": ["nlp"],
+              "homepage": "https://shangjingbo1226.github.io/",
+              "google_scholar": "https://scholar.google.com/citations?user=0SkFI4MAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/151/3145.html",
+              "publications": 46,
+              "adj_count": 10.2
+          },
+          {
+              "name": "Manmohan Krishna Chandraker",
+              "area": ["vision"],
+              "homepage": "https://cseweb.ucsd.edu/~mkchandraker/",
+              "google_scholar": "https://scholar.google.com/citations?user=Ja-8AFsAAAAJ&hl=en",
+              "dblp": "https://dblp.org/pid/79/589.html",
+              "publications": 44,
+              "adj_count": 8.9
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Georgia Institute of Technology",
+        "faculty": [
+          {
+            "name": "Animesh Garg",
+            "area": ["robotics", "ml"],
+            "homepage": "https://animesh.garg.tech/",
+            "google_scholar": "https://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/123/5728.html",
+            "publications": 45,
+            "adj_count": 8.1
+          },
+          {
+            "name": "Yingyan (Celine) Lin",
+            "area": ["ml"],
+            "homepage": "https://eiclab.scs.gatech.edu/",
+            "google_scholar": "https://scholar.google.com/citations?user=dio8IesAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pers/hd/l/Lin:Yingyan_(Celine)",
+            "publications": 42,
+            "adj_count": 7.0
+          },
+          {
+              "name": "Humphrey Shi",
+              "area": ["vision"],
+              "homepage": "https://www.humphreyshi.com/",
+              "google_scholar": "https://scholar.google.com/citations?user=WBvt5A8AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/176/5516.html",
+              "publications": 37,
+              "adj_count": 6.0
+          },
+          {
+              "name": "Tuo Zhao",
+              "area": ["ml"],
+              "homepage": "https://www2.isye.gatech.edu/~tzhao80/",
+              "google_scholar": "https://scholar.google.com/citations?user=EJXN6tYAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/82/199.html",
+              "publications": 37,
+              "adj_count": 6.2
+          },
+          {
+              "name": "Pan Li 0005",
+              "area": ["ml"],
+              "homepage": "https://sites.google.com/view/panli-purdue/home",
+              "google_scholar": "https://scholar.google.com/citations?user=IroP0EwAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/72/2643-5.html",
+              "publications": 34,
+              "adj_count": 8.2
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "University of Michigan",
+        "faculty": [
+          {
+            "name": "Lu Wang 0008",
+            "area": ["nlp"],
+            "homepage": "https://web.eecs.umich.edu/~wangluxy/",
+            "google_scholar": "https://scholar.google.com/citations?user=uczqEdUAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/49/3800-8.html",
+            "publications": 33,
+            "adj_count": 8.8
+          },
+          {
+            "name": "Thatchaphol Saranurak",
+            "area": ["theory"],
+            "homepage": "https://sites.google.com/site/thsaranurak",
+            "google_scholar": "https://scholar.google.com/citations?user=y2A2tQgAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/123/4694.html",
+            "publications": 27,
+            "adj_count": 8.0
+          },
+          {
+              "name": "Justin Johnson 0001",
+              "area": ["vision"],
+              "homepage": "https://web.eecs.umich.edu/~justincj/",
+              "google_scholar": "https://scholar.google.com/citations?user=WBvt5A8AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/04/3396-1.html",
+              "publications": 24,
+              "adj_count": 6.9
+          },
+          {
+              "name": "Andrew Owens",
+              "area": ["vision"],
+              "homepage": "https://andrewowens.com/",
+              "google_scholar": "https://scholar.google.com/citations?user=9hX-JksAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/85/2697.html",
+              "publications": 24,
+              "adj_count": 6.4
+          },
+          {
+              "name": "Rada Mihalcea",
+              "area": ["nlp"],
+              "homepage": "https://web.eecs.umich.edu/~mihalcea/",
+              "google_scholar": "https://scholar.google.com/citations?user=UetM7FgAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/m/RadaMihalcea.html",
+              "publications": 23,
+              "adj_count": 5.0
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "University of Washington",
+        "faculty": [
+          {
+            "name": "Yejin Choi 0001",
+            "area": ["nlp"],
+            "homepage": "https://homes.cs.washington.edu/~yejin/",
+            "google_scholar": "https://scholar.google.com/citations?user=vhP-tlcAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/89/579-1.html",
+            "publications": 104,
+            "adj_count": 16.2
+          },
+          {
+            "name": "Luke Zettlemoyer",
+            "area": ["nlp"],
+            "homepage": "https://www.cs.washington.edu/people/faculty/lsz",
+            "google_scholar": "https://scholar.google.com/citations?user=UjpbO6IAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/21/6793.html",
+            "publications": 77,
+            "adj_count": 13.1
+          },
+          {
+              "name": "Hannaneh Hajishirzi",
+              "area": ["nlp"],
+              "homepage": "https://people.ece.uw.edu/bilmes/p/pgs/index.html",
+              "google_scholar": "https://scholar.google.com/citations?user=LOV6_WIAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/52/1296.html",
+              "publications": 60,
+              "adj_count": 10.5
+          },
+          {
+              "name": "Noah A. Smith",
+              "area": ["nlp"],
+              "homepage": "https://www.cs.washington.edu/people/faculty/nasmith",
+              "google_scholar": "https://scholar.google.com/citations?user=TjdFs3EAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/90/5204.html",
+              "publications": 52,
+              "adj_count": 8.9
+          },
+          {
+              "name": "Simon S. Du",
+              "area": ["ml"],
+              "homepage": "https://www.cs.washington.edu/people/faculty/ssdu",
+              "google_scholar": "https://scholar.google.com/citations?user=OttawxUAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/176/5602.html",
+              "publications": 51,
+              "adj_count": 12.8
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "University of Maryland - College Park",
+        "faculty": [
+          {
+            "name": "Dinesh Manocha",
+            "area": ["robotics"],
+            "homepage": "https://www.cs.unc.edu/~dm/",
+            "google_scholar": "https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/m/DineshManocha.html",
+            "publications": 89,
+            "adj_count": 19.4
+          },
+          {
+            "name": "Heng Huang",
+            "area": ["ai", "ml"],
+            "homepage": "https://www.cs.umd.edu/~heng/",
+            "google_scholar": "https://scholar.google.com/citations?user=4OqLaDwAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/03/281.html",
+            "publications": 83,
+            "adj_count": 23.6
+          },
+          {
+              "name": "Tom Goldstein",
+              "area": ["ml"],
+              "homepage": "https://www.cs.umd.edu/~tomg/",
+              "google_scholar": "https://scholar.google.com/citations?user=KmSuVtgAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/25/8184.html",
+              "publications": 63,
+              "adj_count": 11.2
+          },
+          {
+              "name": "Abhinav Shrivastava",
+              "area": ["vision"],
+              "homepage": "https://www.cs.umd.edu/~abhinav/",
+              "google_scholar": "https://scholar.google.com/citations?user=mIF9BowAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/65/10572.html",
+              "publications": 54,
+              "adj_count": 12.6
+          },
+          {
+              "name": "Furong Huang",
+              "area": ["ml"],
+              "homepage": "https://www.cs.umd.edu/people/furongh",
+              "google_scholar": "https://scholar.google.com/citations?user=13yyuCcAAAAJ&hl=en",
+              "dblp": "https://dblp.org/pid/72/8513.html",
+              "publications": 52,
+              "adj_count": 9.7
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Cornell University",
+        "faculty": [
+          {
+            "name": "Noah Snavely",
+            "area": ["vision"],
+            "homepage": "https://www.cs.cornell.edu/~snavely/",
+            "google_scholar": "https://scholar.google.com/citations?user=Db4BCX8AAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/33/4636.html",
+            "publications": 35,
+            "adj_count": 6.5
+          },
+          {
+            "name": "Bharath Hariharan",
+            "area": ["vision"],
+            "homepage": "https://www.cs.cornell.edu/~bharathh/",
+            "google_scholar": "https://scholar.google.com/citations?user=TpglobcAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/05/8412.html",
+            "publications": 33,
+            "adj_count": 7.5
+          },
+          {
+              "name": "Alexander M. Rush",
+              "area": ["nlp"],
+              "homepage": "https://people.seas.harvard.edu/~srush/",
+              "google_scholar": "https://scholar.google.com/citations?user=LIjnUGgAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/67/9012.html",
+              "publications": 29,
+              "adj_count": 6.6
+          },
+          {
+              "name": "Wen Sun 0002",
+              "area": ["ml"],
+              "homepage": "https://wensun.github.io/",
+              "google_scholar": "https://scholar.google.com/citations?user=iOLC30YAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/69/1010-2.html",
+              "publications": 29,
+              "adj_count": 7.4
+          },
+          {
+              "name": "Kilian Q. Weinberger",
+              "area": ["ml"],
+              "homepage": "https://www.cs.cornell.edu/~kilian/",
+              "google_scholar": "https://scholar.google.com/citations?user=jsxk8vsAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/88/4801.html",
+              "publications": 29,
+              "adj_count": 5.6
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Stanford University",
+        "faculty": [
+          {
+            "name": "Daniela Rus",
+            "area": ["robotics"],
+            "homepage": "https://www.csail.mit.edu/person/daniela-rus",
+            "google_scholar": "https://scholar.google.com/citations?user=910z20QAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/r/DanielaRus.html",
+            "publications": 86,
+            "adj_count": 17.1
+          },
+          {
+            "name": "Antonio Torralba 0001",
+            "area": ["vision"],
+            "homepage": "https://groups.csail.mit.edu/vision/torralbalab/",
+            "google_scholar": "https://scholar.google.com/citations?user=8cxDHS4AAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/t/AntonioBTorralba.html",
+            "publications": 69,
+            "adj_count": 11.7
+          },
+          {
+              "name": "Jacob Andreas",
+              "area": ["ml","nlp"],
+              "homepage": "https://web.mit.edu/jda/www/",
+              "google_scholar": "https://scholar.google.com/citations?user=dnZ8udEAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/97/8154.html",
+              "publications": 46,
+              "adj_count": 10.8
+          },
+          {
+              "name": "Wojciech Matusik",
+              "area": ["graphics"],
+              "homepage": "https://cdfg.csail.mit.edu/wojciech",
+              "google_scholar": "https://scholar.google.com/citations?user=wbIMbL8AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/21/6486.html",
+              "publications": 45,
+              "adj_count": 6.7
+          },
+          {
+              "name": " Tommi S. Jaakkola",
+              "area": ["ml"],
+              "homepage": "https://people.csail.mit.edu/tommi/",
+              "google_scholar": "https://scholar.google.com/citations?user=jsxk8vsAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/j/TommiJaakkola.html",
+              "publications": 29,
+              "adj_count": 5.6
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Massachusetts Institute of Technology",
+        "faculty": [
+          {
+            "name": "Stefano Ermon",
+            "area": ["ml"],
+            "homepage": "https://cs.stanford.edu/~ermon/",
+            "google_scholar": "https://scholar.google.com/citations?user=910z20QAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/47/8135.html",
+            "publications": 98,
+            "adj_count": 19.8
+          },
+          {
+            "name": "Jiajun Wu 0001",
+            "area": ["ml","vision"],
+            "homepage": "https://jiajunwu.com/",
+            "google_scholar": "https://scholar.google.com/citations?user=2efgcS0AAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/117/4768.html",
+            "publications": 95,
+            "adj_count": 17.5
+          },
+          {
+              "name": "Chelsea Finn",
+              "area": ["ml"],
+              "homepage": "https://ai.stanford.edu/~cbfinn/",
+              "google_scholar": "https://scholar.google.com/citations?user=vfPE6hgAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/131/1783.html",
+              "publications": 92,
+              "adj_count": 16.4
+          },
+          {
+              "name": "Leonidas J. Guibas",
+              "area": ["vision"],
+              "homepage": "https://geometry.stanford.edu/member/guibas",
+              "google_scholar": "https://scholar.google.com/citations?user=5JlEyTAAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/g/LeonidasJGuibas.html",
+              "publications": 75,
+              "adj_count": 12.7
+          },
+          {
+              "name": "Diyi Yang",
+              "area": ["nlp"],
+              "homepage": "https://cs.stanford.edu/~diyiy/",
+              "google_scholar": "https://scholar.google.com/citations?user=j9jhYqQAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/70/11145.html",
+              "publications": 63,
+              "adj_count": 14.8
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "University of California - Berkeley",
+        "faculty": [
+          {
+            "name": "Sergey Levine",
+            "area": ["ml"],
+            "homepage": "https://people.eecs.berkeley.edu/~svlevine/",
+            "google_scholar": "https://scholar.google.com/citations?user=8R35rCwAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/80/7594.html",
+            "publications": 155,
+            "adj_count": 32.2
+          },
+          {
+            "name": "Pieter Abbeel",
+            "area": ["ml"],
+            "homepage": "https://people.eecs.berkeley.edu/~pabbeel/",
+            "google_scholar": "https://scholar.google.com/citations?user=vtwH6GkAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/a/PieterAbbeel.html",
+            "publications": 95,
+            "adj_count": 21.3
+          },
+          {
+              "name": "Trevor Darrell",
+              "area": ["vision"],
+              "homepage": "https://people.eecs.berkeley.edu/~trevor/",
+              "google_scholar": "https://scholar.google.com/citations?user=bh-uRFMAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/d/TrevorDarrell.html",
+              "publications": 90,
+              "adj_count": 15.8
+          },
+          {
+              "name": "Joseph Gonzalez 0001",
+              "area": ["ml"],
+              "homepage": "https://people.eecs.berkeley.edu/~jegonzal/",
+              "google_scholar": "https://scholar.google.com/citations?user=B96GkdgAAAAJ&hl=en",
+              "dblp": "https://dblp.org/pid/61/8262.html",
+              "publications": 60,
+              "adj_count": 8.7
+          },
+          {
+              "name": "Dawn Song",
+              "area": ["ml", "security"],
+              "homepage": "https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html",
+              "google_scholar": "https://scholar.google.com/citations?user=84WzBlYAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/s/DXSong.html",
+              "publications": 59,
+              "adj_count": 11.1
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Purdue University",
+        "faculty": [
+          {
+            "name": "Xiangyu Zhang 0001",
+            "area": ["security","se"],
+            "homepage": "https://www.cs.purdue.edu/homes/xyzhang/",
+            "google_scholar": "https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pers/hd/z/Zhang_0001:Xiangyu",
+            "publications": 51,
+            "adj_count": 8.3
+          },
+          {
+            "name": "Jianzhu Ma",
+            "area": ["ml"],
+            "homepage": "https://www.cs.purdue.edu/homes/ma634",
+            "google_scholar": "https://scholar.google.com/citations?user=AATzYuAAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/24/9080.html",
+            "publications": 27,
+            "adj_count": 5.0
+          },
+          {
+              "name": "Antonio Bianchi",
+              "area": ["security"],
+              "homepage": "https://antoniobianchi.me/",
+              "google_scholar": "https://scholar.google.com/citations?user=RMm4j1AAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/99/3883.html",
+              "publications": 23,
+              "adj_count": 4.3
+          },
+          {
+              "name": "Z. Berkay Celik",
+              "area": ["security"],
+              "homepage": "https://beerkay.github.io/",
+              "google_scholar": "https://scholar.google.com/citations?user=g1I269gAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/143/2298.html",
+              "publications": 20,
+              "adj_count": 3.7
+          },
+          {
+              "name": "Dongyan Xu",
+              "area": ["security"],
+              "homepage": "https://www.cs.purdue.edu/homes/dxu/",
+              "google_scholar": "https://scholar.google.com/citations?user=CQcd1cQAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/59/5539.html",
+              "publications": 19,
+              "adj_count": 3.6
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Northeastern University",
+        "faculty": [
+          {
+            "name": "Yanzhi Wang",
+            "area": ["eda","ml"],
+            "homepage": "https://www.khoury.northeastern.edu/people/yanzhi-wang",
+            "google_scholar": "https://scholar.google.com/citations?user=a7akgIEAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/45/7737.html",
+            "publications": 60,
+            "adj_count": 7.4
+          },
+          {
+            "name": "Yun Fu 0001",
+            "area": ["vison","ai"],
+            "homepage": "https://www1.ece.neu.edu/~yunfu/",
+            "google_scholar": "https://scholar.google.com/citations?user=h-JEcQ8AAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/00/5815-1.html",
+            "publications": 53,
+            "adj_count": 11.0
+          },
+          {
+              "name": "Robin Walters 0001",
+              "area": ["ml"],
+              "homepage": "https://www.khoury.northeastern.edu/people/robin-walters",
+              "google_scholar": "https://scholar.google.com/citations?user=fnprJmUAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/258/3416.html",
+              "publications": 26,
+              "adj_count": 6.2
+          },
+          {
+              "name": "Devesh Tiwari",
+              "area": ["hpc"],
+              "homepage": "https://www.northeastern.edu/",
+              "google_scholar": "https://scholar.google.com/citations?user=g1I269gAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/76/9083.html",
+              "publications": 20,
+              "adj_count": 3.7
+          },
+          {
+              "name": "Byron C. Wallace",
+              "area": ["nlp"],
+              "homepage": "https://www.byronwallace.com/",
+              "google_scholar": "https://scholar.google.com/citations?user=KTzRHmwAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/00/8247.html",
+              "publications": 24,
+              "adj_count": 5.4
+          }
+        ]
+      },  
+      {
+        "id": 14,
+        "name": "Princeton University",
+        "faculty": [
+          {
+            "name": "Felix Heide",
+            "area": ["vision"],
+            "homepage": "https://www.cs.princeton.edu/~fheide/",
+            "google_scholar": "https://scholar.google.com/citations?user=gRqzSHsAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pers/hd/h/Heide:Felix",
+            "publications": 48,
+            "adj_count": 10.2
+          },
+          {
+            "name": "Jason D. Lee",
+            "area": ["ml"],
+            "homepage": "https://jasondlee88.github.io/",
+            "google_scholar": "https://scholar.google.com/citations?user=GR_DsT0AAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/88/3262.html",
+            "publications": 47,
+            "adj_count": 11.3
+          },
+          {
+              "name": "Danqi Chen 0001",
+              "area": ["nlp"],
+              "homepage": "https://www.cs.princeton.edu/~danqic/",
+              "google_scholar": "https://scholar.google.com/citations?user=sVR8ktkAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pers/hd/c/Chen_0001:Danqi",
+              "publications": 41,
+              "adj_count": 10.2
+          },
+          {
+              "name": "Prateek Mittal",
+              "area": ["security","ml"],
+              "homepage": "https://www.princeton.edu/~pmittal/",
+              "google_scholar": "https://scholar.google.com/citations?user=xTKD8J4AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/39/6266.html",
+              "publications": 37,
+              "adj_count": 7.9
+          },
+          {
+              "name": "Benjamin Eysenbach",
+              "area": ["ml"],
+              "homepage": "https://www.cs.princeton.edu/people/profile/eysenbach",
+              "google_scholar": "https://scholar.google.com/citations?user=DRnOvU8AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/192/1863.html",
+              "publications": 30,
+              "adj_count": 7.1
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "University of Texas at Austin",
+        "faculty": [
+          {
+            "name": "Andrew Gordon Wilson",
+            "area": ["ml"],
+            "homepage": "https://cims.nyu.edu/~andrewgw/",
+            "google_scholar": "https://scholar.google.com/citations?user=twWX2LIAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/65/10453.html",
+            "publications": 48,
+            "adj_count": 11.0
+          },
+          {
+            "name": "Kyunghyun Cho",
+            "area": ["ml","nlp"],
+            "homepage": "https://www.kyunghyuncho.me/",
+            "google_scholar": "https://scholar.google.com/citations?user=0RAmmIAAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/41/9736.html",
+            "publications": 30,
+            "adj_count": 6.9
+          },
+          {
+              "name": "Lerrel Pinto",
+              "area": ["ml","robotics"],
+              "homepage": "https://www.lerrelpinto.com/",
+              "google_scholar": "https://scholar.google.com/citations?user=pmVPj94AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/168/8304.html",
+              "publications": 27,
+              "adj_count": 6.3
+          },
+          {
+              "name": "Joan Bruna",
+              "area": ["ml"],
+              "homepage": "https://cs.nyu.edu/~bruna/",
+              "google_scholar": "https://scholar.google.com/citations?user=L4bNmsMAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/44/8776.html",
+              "publications": 24,
+              "adj_count": 7.6
+          },
+          {
+              "name": "Eunsol Choi",
+              "area": ["nlp"],
+              "homepage": "https://eunsol.github.io/",
+              "google_scholar": "https://scholar.google.com/citations?user=dCEcahMAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/116/2765.html",
+              "publications": 24,
+              "adj_count": 6.8
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "New York University",
+        "faculty": [
+          {
+            "name": "Graham Neubig",
+            "area": ["nlp"],
+            "homepage": "https://www.phontron.com/",
+            "google_scholar": "https://scholar.google.com/citations?user=wlosgkoAAAAJ&hl=en&oi=ao",
+            "dblp": "https://scholar.google.com/citations?user=wlosgkoAAAAJ&hl=en&oi=ao",
+            "publications": 80,
+            "adj_count": 17.0
+          },
+          {
+            "name": "J. Zico Kolter",
+            "area": ["ml"],
+            "homepage": "https://zicokolter.com/",
+            "google_scholar": "https://scholar.google.com/citations?user=UXh1I6UAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/67/2526.html",
+            "publications": 71,
+            "adj_count": 18.2
+          },
+          {
+            "name": "David P. Woodruff",
+            "area": ["ml", "theory"],
+            "homepage": "https://www.cs.cmu.edu/~dwoodruf/",
+            "google_scholar": "https://scholar.google.com/citations?user=kMmxbbIAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/w/DPWoodruff.html",
+            "publications": 65,
+            "adj_count": 20.5
+          },
+          {
+              "name": "Lei Li 0005",
+              "area": ["nlp"],
+              "homepage": "https://lileicc.github.io/",
+              "google_scholar": "https://scholar.google.com/citations?user=BYXqAlwAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/13/7007-5.html",
+              "publications": 59,
+              "adj_count": 12.3
+            },
+            {
+              "name": "Deva Ramanan",
+              "area": ["vision"],
+              "homepage": "https://www.cs.cmu.edu/~deva/",
+              "google_scholar": "https://scholar.google.com/citations?user=9B8PoXUAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/49/488.html",
+              "publications": 54,
+              "adj_count": 11.6
+            }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "University of Pennsylvania",
+        "faculty": [
+          {
+            "name": "Heng Ji",
+            "area": ["nlp"],
+            "homepage": "https://blender.cs.illinois.edu/hengji.html",
+            "google_scholar": "https://scholar.google.com/citations?user=z7GCqT4AAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/61/2408.html",
+            "publications": 86,
+            "adj_count": 17.1
+          },
+          {
+            "name": "Jiawei Han 0001",
+            "area": ["nlp", "web+ir"],
+            "homepage": "https://hanj.cs.illinois.edu/",
+            "google_scholar": "https://scholar.google.com/citations?user=Kv9AbjMAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/h/JiaweiHan.html",
+            "publications": 69,
+            "adj_count": 12.1
+          },
+          {
+              "name": "Yu-Xiong Wang",
+              "area": ["vision", "ml"],
+              "homepage": "https://yxw.web.illinois.edu/",
+              "google_scholar": "https://scholar.google.com/citations?user=T_Q-xDkAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/35/10700.html",
+              "publications": 50,
+              "adj_count": 13.3
+          },
+          {
+              "name": "Alexander G. Schwing",
+              "area": ["vision", "ml"],
+              "homepage": "https://www.alexander-schwing.de/",
+              "google_scholar": "https://scholar.google.com/citations?user=3B2c31wAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/79/9775.html",
+              "publications": 46,
+              "adj_count": 10.9
+          },
+          {
+              "name": "Jimeng Sun 0001",
+              "area": ["ai", "ml"],
+              "homepage": "http://sunlab.org/",
+              "google_scholar": "https://scholar.google.com/citations?user=9jmmp5sAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/54/4948.html",
+              "publications": 43,
+              "adj_count": 10.8
+          }
+        ]
+      },
+      {
+          "id": 18,
+          "name": "University of Massachusetts Amherst",
+          "faculty": [
+            {
+              "name": "Xiaolong Wang 0004",
+              "area": ["vision", "ml"],
+              "homepage": "https://xiaolonw.github.io/",
+              "google_scholar": "https://scholar.google.com/citations?user=Y8O9N_0AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/91/952-4.html",
+              "publications": 70,
+              "adj_count": 15.9
+            },
+            {
+              "name": "Hao Su 0001",
+              "area": ["vision", "ml"],
+              "homepage": "https://ai.ucsd.edu/~haosu",
+              "google_scholar": "https://scholar.google.com/citations?user=1P8Zu04AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pers/hd/s/Su_0001:Hao",
+              "publications": 49,
+              "adj_count": 8.2
+            },
+            {
+                "name": "Julian J. McAuley",
+                "area": ["nlp"],
+                "homepage": "https://cseweb.ucsd.edu/~jmcauley/",
+                "google_scholar": "https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/29/3483.html",
+                "publications": 46,
+                "adj_count": 10.5
+            },
+            {
+                "name": "Jingbo Shang",
+                "area": ["nlp"],
+                "homepage": "https://shangjingbo1226.github.io/",
+                "google_scholar": "https://scholar.google.com/citations?user=0SkFI4MAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/151/3145.html",
+                "publications": 46,
+                "adj_count": 10.2
+            },
+            {
+                "name": "Manmohan Krishna Chandraker",
+                "area": ["vision"],
+                "homepage": "https://cseweb.ucsd.edu/~mkchandraker/",
+                "google_scholar": "https://scholar.google.com/citations?user=Ja-8AFsAAAAJ&hl=en",
+                "dblp": "https://dblp.org/pid/79/589.html",
+                "publications": 44,
+                "adj_count": 8.9
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "University of Southern California",
+          "faculty": [
+            {
+              "name": "Animesh Garg",
+              "area": ["robotics", "ml"],
+              "homepage": "https://animesh.garg.tech/",
+              "google_scholar": "https://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/123/5728.html",
+              "publications": 45,
+              "adj_count": 8.1
+            },
+            {
+              "name": "Yingyan (Celine) Lin",
+              "area": ["ml"],
+              "homepage": "https://eiclab.scs.gatech.edu/",
+              "google_scholar": "https://scholar.google.com/citations?user=dio8IesAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pers/hd/l/Lin:Yingyan_(Celine)",
+              "publications": 42,
+              "adj_count": 7.0
+            },
+            {
+                "name": "Humphrey Shi",
+                "area": ["vision"],
+                "homepage": "https://www.humphreyshi.com/",
+                "google_scholar": "https://scholar.google.com/citations?user=WBvt5A8AAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/176/5516.html",
+                "publications": 37,
+                "adj_count": 6.0
+            },
+            {
+                "name": "Tuo Zhao",
+                "area": ["ml"],
+                "homepage": "https://www2.isye.gatech.edu/~tzhao80/",
+                "google_scholar": "https://scholar.google.com/citations?user=EJXN6tYAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/82/199.html",
+                "publications": 37,
+                "adj_count": 6.2
+            },
+            {
+                "name": "Pan Li 0005",
+                "area": ["ml"],
+                "homepage": "https://sites.google.com/view/panli-purdue/home",
+                "google_scholar": "https://scholar.google.com/citations?user=IroP0EwAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/72/2643-5.html",
+                "publications": 34,
+                "adj_count": 8.2
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "University of Wisconsin - Madison",
+          "faculty": [
+            {
+              "name": "Lu Wang 0008",
+              "area": ["nlp"],
+              "homepage": "https://web.eecs.umich.edu/~wangluxy/",
+              "google_scholar": "https://scholar.google.com/citations?user=uczqEdUAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/49/3800-8.html",
+              "publications": 33,
+              "adj_count": 8.8
+            },
+            {
+              "name": "Thatchaphol Saranurak",
+              "area": ["theory"],
+              "homepage": "https://sites.google.com/site/thsaranurak",
+              "google_scholar": "https://scholar.google.com/citations?user=y2A2tQgAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/123/4694.html",
+              "publications": 27,
+              "adj_count": 8.0
+            },
+            {
+                "name": "Justin Johnson 0001",
+                "area": ["vision"],
+                "homepage": "https://web.eecs.umich.edu/~justincj/",
+                "google_scholar": "https://scholar.google.com/citations?user=WBvt5A8AAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/04/3396-1.html",
+                "publications": 24,
+                "adj_count": 6.9
+            },
+            {
+                "name": "Andrew Owens",
+                "area": ["vision"],
+                "homepage": "https://andrewowens.com/",
+                "google_scholar": "https://scholar.google.com/citations?user=9hX-JksAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/85/2697.html",
+                "publications": 24,
+                "adj_count": 6.4
+            },
+            {
+                "name": "Rada Mihalcea",
+                "area": ["nlp"],
+                "homepage": "https://web.eecs.umich.edu/~mihalcea/",
+                "google_scholar": "https://scholar.google.com/citations?user=UetM7FgAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/m/RadaMihalcea.html",
+                "publications": 23,
+                "adj_count": 5.0
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "name": "University of California - Los Angeles",
+          "faculty": [
+            {
+              "name": "Dinesh Manocha",
+              "area": ["robotics"],
+              "homepage": "https://www.cs.unc.edu/~dm/",
+              "google_scholar": "https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/m/DineshManocha.html",
+              "publications": 89,
+              "adj_count": 19.4
+            },
+            {
+              "name": "Heng Huang",
+              "area": ["ai", "ml"],
+              "homepage": "https://www.cs.umd.edu/~heng/",
+              "google_scholar": "https://scholar.google.com/citations?user=4OqLaDwAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/03/281.html",
+              "publications": 83,
+              "adj_count": 23.6
+            },
+            {
+                "name": "Tom Goldstein",
+                "area": ["ml"],
+                "homepage": "https://www.cs.umd.edu/~tomg/",
+                "google_scholar": "https://scholar.google.com/citations?user=KmSuVtgAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/25/8184.html",
+                "publications": 63,
+                "adj_count": 11.2
+            },
+            {
+                "name": "Abhinav Shrivastava",
+                "area": ["vision"],
+                "homepage": "https://www.cs.umd.edu/~abhinav/",
+                "google_scholar": "https://scholar.google.com/citations?user=mIF9BowAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/65/10572.html",
+                "publications": 54,
+                "adj_count": 12.6
+            },
+            {
+                "name": "Furong Huang",
+                "area": ["ml"],
+                "homepage": "https://www.cs.umd.edu/people/furongh",
+                "google_scholar": "https://scholar.google.com/citations?user=13yyuCcAAAAJ&hl=en",
+                "dblp": "https://dblp.org/pid/72/8513.html",
+                "publications": 52,
+                "adj_count": 9.7
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "Columbia University",
+          "faculty": [
+            {
+              "name": "Yejin Choi 0001",
+              "area": ["nlp"],
+              "homepage": "https://homes.cs.washington.edu/~yejin/",
+              "google_scholar": "https://scholar.google.com/citations?user=vhP-tlcAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/89/579-1.html",
+              "publications": 104,
+              "adj_count": 16.2
+            },
+            {
+              "name": "Luke Zettlemoyer",
+              "area": ["nlp"],
+              "homepage": "https://www.cs.washington.edu/people/faculty/lsz",
+              "google_scholar": "https://scholar.google.com/citations?user=UjpbO6IAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/21/6793.html",
+              "publications": 77,
+              "adj_count": 13.1
+            },
+            {
+                "name": "Hannaneh Hajishirzi",
+                "area": ["nlp"],
+                "homepage": "https://people.ece.uw.edu/bilmes/p/pgs/index.html",
+                "google_scholar": "https://scholar.google.com/citations?user=LOV6_WIAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/52/1296.html",
+                "publications": 60,
+                "adj_count": 10.5
+            },
+            {
+                "name": "Noah A. Smith",
+                "area": ["nlp"],
+                "homepage": "https://www.cs.washington.edu/people/faculty/nasmith",
+                "google_scholar": "https://scholar.google.com/citations?user=TjdFs3EAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/90/5204.html",
+                "publications": 52,
+                "adj_count": 8.9
+            },
+            {
+                "name": "Simon S. Du",
+                "area": ["ml"],
+                "homepage": "https://www.cs.washington.edu/people/faculty/ssdu",
+                "google_scholar": "https://scholar.google.com/citations?user=OttawxUAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/176/5602.html",
+                "publications": 51,
+                "adj_count": 12.8
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "name": "Stony Brook University",
+          "faculty": [
+            {
+              "name": "Noah Snavely",
+              "area": ["vision"],
+              "homepage": "https://www.cs.cornell.edu/~snavely/",
+              "google_scholar": "https://scholar.google.com/citations?user=Db4BCX8AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/33/4636.html",
+              "publications": 35,
+              "adj_count": 6.5
+            },
+            {
+              "name": "Bharath Hariharan",
+              "area": ["vision"],
+              "homepage": "https://www.cs.cornell.edu/~bharathh/",
+              "google_scholar": "https://scholar.google.com/citations?user=TpglobcAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/05/8412.html",
+              "publications": 33,
+              "adj_count": 7.5
+            },
+            {
+                "name": "Alexander M. Rush",
+                "area": ["nlp"],
+                "homepage": "https://people.seas.harvard.edu/~srush/",
+                "google_scholar": "https://scholar.google.com/citations?user=LIjnUGgAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/67/9012.html",
+                "publications": 29,
+                "adj_count": 6.6
+            },
+            {
+                "name": "Wen Sun 0002",
+                "area": ["ml"],
+                "homepage": "https://wensun.github.io/",
+                "google_scholar": "https://scholar.google.com/citations?user=iOLC30YAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/69/1010-2.html",
+                "publications": 29,
+                "adj_count": 7.4
+            },
+            {
+                "name": "Kilian Q. Weinberger",
+                "area": ["ml"],
+                "homepage": "https://www.cs.cornell.edu/~kilian/",
+                "google_scholar": "https://scholar.google.com/citations?user=jsxk8vsAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/88/4801.html",
+                "publications": 29,
+                "adj_count": 5.6
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "name": "University of Chicago",
+          "faculty": [
+            {
+              "name": "Daniela Rus",
+              "area": ["robotics"],
+              "homepage": "https://www.csail.mit.edu/person/daniela-rus",
+              "google_scholar": "https://scholar.google.com/citations?user=910z20QAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/r/DanielaRus.html",
+              "publications": 86,
+              "adj_count": 17.1
+            },
+            {
+              "name": "Antonio Torralba 0001",
+              "area": ["vision"],
+              "homepage": "https://groups.csail.mit.edu/vision/torralbalab/",
+              "google_scholar": "https://scholar.google.com/citations?user=8cxDHS4AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/t/AntonioBTorralba.html",
+              "publications": 69,
+              "adj_count": 11.7
+            },
+            {
+                "name": "Jacob Andreas",
+                "area": ["ml","nlp"],
+                "homepage": "https://web.mit.edu/jda/www/",
+                "google_scholar": "https://scholar.google.com/citations?user=dnZ8udEAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/97/8154.html",
+                "publications": 46,
+                "adj_count": 10.8
+            },
+            {
+                "name": "Wojciech Matusik",
+                "area": ["graphics"],
+                "homepage": "https://cdfg.csail.mit.edu/wojciech",
+                "google_scholar": "https://scholar.google.com/citations?user=wbIMbL8AAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/21/6486.html",
+                "publications": 45,
+                "adj_count": 6.7
+            },
+            {
+                "name": " Tommi S. Jaakkola",
+                "area": ["ml"],
+                "homepage": "https://people.csail.mit.edu/tommi/",
+                "google_scholar": "https://scholar.google.com/citations?user=jsxk8vsAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/j/TommiJaakkola.html",
+                "publications": 29,
+                "adj_count": 5.6
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "name": "University of California - Irvine",
+          "faculty": [
+            {
+              "name": "Stefano Ermon",
+              "area": ["ml"],
+              "homepage": "https://cs.stanford.edu/~ermon/",
+              "google_scholar": "https://scholar.google.com/citations?user=910z20QAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/47/8135.html",
+              "publications": 98,
+              "adj_count": 19.8
+            },
+            {
+              "name": "Jiajun Wu 0001",
+              "area": ["ml","vision"],
+              "homepage": "https://jiajunwu.com/",
+              "google_scholar": "https://scholar.google.com/citations?user=2efgcS0AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/117/4768.html",
+              "publications": 95,
+              "adj_count": 17.5
+            },
+            {
+                "name": "Chelsea Finn",
+                "area": ["ml"],
+                "homepage": "https://ai.stanford.edu/~cbfinn/",
+                "google_scholar": "https://scholar.google.com/citations?user=vfPE6hgAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/131/1783.html",
+                "publications": 92,
+                "adj_count": 16.4
+            },
+            {
+                "name": "Leonidas J. Guibas",
+                "area": ["vision"],
+                "homepage": "https://geometry.stanford.edu/member/guibas",
+                "google_scholar": "https://scholar.google.com/citations?user=5JlEyTAAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/g/LeonidasJGuibas.html",
+                "publications": 75,
+                "adj_count": 12.7
+            },
+            {
+                "name": "Diyi Yang",
+                "area": ["nlp"],
+                "homepage": "https://cs.stanford.edu/~diyiy/",
+                "google_scholar": "https://scholar.google.com/citations?user=j9jhYqQAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/70/11145.html",
+                "publications": 63,
+                "adj_count": 14.8
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "name": "George Mason University",
+          "faculty": [
+            {
+              "name": "Sergey Levine",
+              "area": ["ml"],
+              "homepage": "https://people.eecs.berkeley.edu/~svlevine/",
+              "google_scholar": "https://scholar.google.com/citations?user=8R35rCwAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/80/7594.html",
+              "publications": 155,
+              "adj_count": 32.2
+            },
+            {
+              "name": "Pieter Abbeel",
+              "area": ["ml"],
+              "homepage": "https://people.eecs.berkeley.edu/~pabbeel/",
+              "google_scholar": "https://scholar.google.com/citations?user=vtwH6GkAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/a/PieterAbbeel.html",
+              "publications": 95,
+              "adj_count": 21.3
+            },
+            {
+                "name": "Trevor Darrell",
+                "area": ["vision"],
+                "homepage": "https://people.eecs.berkeley.edu/~trevor/",
+                "google_scholar": "https://scholar.google.com/citations?user=bh-uRFMAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/d/TrevorDarrell.html",
+                "publications": 90,
+                "adj_count": 15.8
+            },
+            {
+                "name": "Joseph Gonzalez 0001",
+                "area": ["ml"],
+                "homepage": "https://people.eecs.berkeley.edu/~jegonzal/",
+                "google_scholar": "https://scholar.google.com/citations?user=B96GkdgAAAAJ&hl=en",
+                "dblp": "https://dblp.org/pid/61/8262.html",
+                "publications": 60,
+                "adj_count": 8.7
+            },
+            {
+                "name": "Dawn Song",
+                "area": ["ml", "security"],
+                "homepage": "https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html",
+                "google_scholar": "https://scholar.google.com/citations?user=84WzBlYAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/s/DXSong.html",
+                "publications": 59,
+                "adj_count": 11.1
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "name": "Pennsylvania State University",
+          "faculty": [
+            {
+              "name": "Xiangyu Zhang 0001",
+              "area": ["security","se"],
+              "homepage": "https://www.cs.purdue.edu/homes/xyzhang/",
+              "google_scholar": "https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pers/hd/z/Zhang_0001:Xiangyu",
+              "publications": 51,
+              "adj_count": 8.3
+            },
+            {
+              "name": "Jianzhu Ma",
+              "area": ["ml"],
+              "homepage": "https://www.cs.purdue.edu/homes/ma634",
+              "google_scholar": "https://scholar.google.com/citations?user=AATzYuAAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/24/9080.html",
+              "publications": 27,
+              "adj_count": 5.0
+            },
+            {
+                "name": "Antonio Bianchi",
+                "area": ["security"],
+                "homepage": "https://antoniobianchi.me/",
+                "google_scholar": "https://scholar.google.com/citations?user=RMm4j1AAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/99/3883.html",
+                "publications": 23,
+                "adj_count": 4.3
+            },
+            {
+                "name": "Z. Berkay Celik",
+                "area": ["security"],
+                "homepage": "https://beerkay.github.io/",
+                "google_scholar": "https://scholar.google.com/citations?user=g1I269gAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/143/2298.html",
+                "publications": 20,
+                "adj_count": 3.7
+            },
+            {
+                "name": "Dongyan Xu",
+                "area": ["security"],
+                "homepage": "https://www.cs.purdue.edu/homes/dxu/",
+                "google_scholar": "https://scholar.google.com/citations?user=CQcd1cQAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/59/5539.html",
+                "publications": 19,
+                "adj_count": 3.6
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "name": "University of California - Riverside",
+          "faculty": [
+            {
+              "name": "Yanzhi Wang",
+              "area": ["eda","ml"],
+              "homepage": "https://www.khoury.northeastern.edu/people/yanzhi-wang",
+              "google_scholar": "https://scholar.google.com/citations?user=a7akgIEAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/45/7737.html",
+              "publications": 60,
+              "adj_count": 7.4
+            },
+            {
+              "name": "Yun Fu 0001",
+              "area": ["vison","ai"],
+              "homepage": "https://www1.ece.neu.edu/~yunfu/",
+              "google_scholar": "https://scholar.google.com/citations?user=h-JEcQ8AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/00/5815-1.html",
+              "publications": 53,
+              "adj_count": 11.0
+            },
+            {
+                "name": "Robin Walters 0001",
+                "area": ["ml"],
+                "homepage": "https://www.khoury.northeastern.edu/people/robin-walters",
+                "google_scholar": "https://scholar.google.com/citations?user=fnprJmUAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/258/3416.html",
+                "publications": 26,
+                "adj_count": 6.2
+            },
+            {
+                "name": "Devesh Tiwari",
+                "area": ["hpc"],
+                "homepage": "https://www.northeastern.edu/",
+                "google_scholar": "https://scholar.google.com/citations?user=g1I269gAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/76/9083.html",
+                "publications": 20,
+                "adj_count": 3.7
+            },
+            {
+                "name": "Byron C. Wallace",
+                "area": ["nlp"],
+                "homepage": "https://www.byronwallace.com/",
+                "google_scholar": "https://scholar.google.com/citations?user=KTzRHmwAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/00/8247.html",
+                "publications": 24,
+                "adj_count": 5.4
+            }
+          ]
+        },  
+        {
+          "id": 29,
+          "name": "University of Virginia",
+          "faculty": [
+            {
+              "name": "Felix Heide",
+              "area": ["vision"],
+              "homepage": "https://www.cs.princeton.edu/~fheide/",
+              "google_scholar": "https://scholar.google.com/citations?user=gRqzSHsAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pers/hd/h/Heide:Felix",
+              "publications": 48,
+              "adj_count": 10.2
+            },
+            {
+              "name": "Jason D. Lee",
+              "area": ["ml"],
+              "homepage": "https://jasondlee88.github.io/",
+              "google_scholar": "https://scholar.google.com/citations?user=GR_DsT0AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/88/3262.html",
+              "publications": 47,
+              "adj_count": 11.3
+            },
+            {
+                "name": "Danqi Chen 0001",
+                "area": ["nlp"],
+                "homepage": "https://www.cs.princeton.edu/~danqic/",
+                "google_scholar": "https://scholar.google.com/citations?user=sVR8ktkAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pers/hd/c/Chen_0001:Danqi",
+                "publications": 41,
+                "adj_count": 10.2
+            },
+            {
+                "name": "Prateek Mittal",
+                "area": ["security","ml"],
+                "homepage": "https://www.princeton.edu/~pmittal/",
+                "google_scholar": "https://scholar.google.com/citations?user=xTKD8J4AAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/39/6266.html",
+                "publications": 37,
+                "adj_count": 7.9
+            },
+            {
+                "name": "Benjamin Eysenbach",
+                "area": ["ml"],
+                "homepage": "https://www.cs.princeton.edu/people/profile/eysenbach",
+                "google_scholar": "https://scholar.google.com/citations?user=DRnOvU8AAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/192/1863.html",
+                "publications": 30,
+                "adj_count": 7.1
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "name": "Duke University",
+          "faculty": [
+            {
+              "name": "Andrew Gordon Wilson",
+              "area": ["ml"],
+              "homepage": "https://cims.nyu.edu/~andrewgw/",
+              "google_scholar": "https://scholar.google.com/citations?user=twWX2LIAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/65/10453.html",
+              "publications": 48,
+              "adj_count": 11.0
+            },
+            {
+              "name": "Kyunghyun Cho",
+              "area": ["ml","nlp"],
+              "homepage": "https://www.kyunghyuncho.me/",
+              "google_scholar": "https://scholar.google.com/citations?user=0RAmmIAAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/41/9736.html",
+              "publications": 30,
+              "adj_count": 6.9
+            },
+            {
+                "name": "Lerrel Pinto",
+                "area": ["ml","robotics"],
+                "homepage": "https://www.lerrelpinto.com/",
+                "google_scholar": "https://scholar.google.com/citations?user=pmVPj94AAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/168/8304.html",
+                "publications": 27,
+                "adj_count": 6.3
+            },
+            {
+                "name": "Joan Bruna",
+                "area": ["ml"],
+                "homepage": "https://cs.nyu.edu/~bruna/",
+                "google_scholar": "https://scholar.google.com/citations?user=L4bNmsMAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/44/8776.html",
+                "publications": 24,
+                "adj_count": 7.6
+            },
+            {
+                "name": "Eunsol Choi",
+                "area": ["nlp"],
+                "homepage": "https://eunsol.github.io/",
+                "google_scholar": "https://scholar.google.com/citations?user=dCEcahMAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/116/2765.html",
+                "publications": 24,
+                "adj_count": 6.8
+            }
+          ]
+        },
+      {
+        "id": 31,
+        "name": "Rutgers University",
+        "faculty": [
+          {
+            "name": "Graham Neubig",
+            "area": ["nlp"],
+            "homepage": "https://www.phontron.com/",
+            "google_scholar": "https://scholar.google.com/citations?user=wlosgkoAAAAJ&hl=en&oi=ao",
+            "dblp": "https://scholar.google.com/citations?user=wlosgkoAAAAJ&hl=en&oi=ao",
+            "publications": 80,
+            "adj_count": 17.0
+          },
+          {
+            "name": "J. Zico Kolter",
+            "area": ["ml"],
+            "homepage": "https://zicokolter.com/",
+            "google_scholar": "https://scholar.google.com/citations?user=UXh1I6UAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/67/2526.html",
+            "publications": 71,
+            "adj_count": 18.2
+          },
+          {
+            "name": "David P. Woodruff",
+            "area": ["ml", "theory"],
+            "homepage": "https://www.cs.cmu.edu/~dwoodruf/",
+            "google_scholar": "https://scholar.google.com/citations?user=kMmxbbIAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/w/DPWoodruff.html",
+            "publications": 65,
+            "adj_count": 20.5
+          },
+          {
+              "name": "Lei Li 0005",
+              "area": ["nlp"],
+              "homepage": "https://lileicc.github.io/",
+              "google_scholar": "https://scholar.google.com/citations?user=BYXqAlwAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/13/7007-5.html",
+              "publications": 59,
+              "adj_count": 12.3
+            },
+            {
+              "name": "Deva Ramanan",
+              "area": ["vision"],
+              "homepage": "https://www.cs.cmu.edu/~deva/",
+              "google_scholar": "https://scholar.google.com/citations?user=9B8PoXUAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/49/488.html",
+              "publications": 54,
+              "adj_count": 11.6
+            }
+        ]
+      },
+      {
+        "id": 32,
+        "name": "University of California - Santa Barbara",
+        "faculty": [
+          {
+            "name": "Heng Ji",
+            "area": ["nlp"],
+            "homepage": "https://blender.cs.illinois.edu/hengji.html",
+            "google_scholar": "https://scholar.google.com/citations?user=z7GCqT4AAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/61/2408.html",
+            "publications": 86,
+            "adj_count": 17.1
+          },
+          {
+            "name": "Jiawei Han 0001",
+            "area": ["nlp", "web+ir"],
+            "homepage": "https://hanj.cs.illinois.edu/",
+            "google_scholar": "https://scholar.google.com/citations?user=Kv9AbjMAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/h/JiaweiHan.html",
+            "publications": 69,
+            "adj_count": 12.1
+          },
+          {
+              "name": "Yu-Xiong Wang",
+              "area": ["vision", "ml"],
+              "homepage": "https://yxw.web.illinois.edu/",
+              "google_scholar": "https://scholar.google.com/citations?user=T_Q-xDkAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/35/10700.html",
+              "publications": 50,
+              "adj_count": 13.3
+          },
+          {
+              "name": "Alexander G. Schwing",
+              "area": ["vision", "ml"],
+              "homepage": "https://www.alexander-schwing.de/",
+              "google_scholar": "https://scholar.google.com/citations?user=3B2c31wAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/79/9775.html",
+              "publications": 46,
+              "adj_count": 10.9
+          },
+          {
+              "name": "Jimeng Sun 0001",
+              "area": ["ai", "ml"],
+              "homepage": "http://sunlab.org/",
+              "google_scholar": "https://scholar.google.com/citations?user=9jmmp5sAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/54/4948.html",
+              "publications": 43,
+              "adj_count": 10.8
+          }
+        ]
+      },
+      {
+          "id": 33,
+          "name": "University of Utah",
+          "faculty": [
+            {
+              "name": "Xiaolong Wang 0004",
+              "area": ["vision", "ml"],
+              "homepage": "https://xiaolonw.github.io/",
+              "google_scholar": "https://scholar.google.com/citations?user=Y8O9N_0AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/91/952-4.html",
+              "publications": 70,
+              "adj_count": 15.9
+            },
+            {
+              "name": "Hao Su 0001",
+              "area": ["vision", "ml"],
+              "homepage": "https://ai.ucsd.edu/~haosu",
+              "google_scholar": "https://scholar.google.com/citations?user=1P8Zu04AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pers/hd/s/Su_0001:Hao",
+              "publications": 49,
+              "adj_count": 8.2
+            },
+            {
+                "name": "Julian J. McAuley",
+                "area": ["nlp"],
+                "homepage": "https://cseweb.ucsd.edu/~jmcauley/",
+                "google_scholar": "https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/29/3483.html",
+                "publications": 46,
+                "adj_count": 10.5
+            },
+            {
+                "name": "Jingbo Shang",
+                "area": ["nlp"],
+                "homepage": "https://shangjingbo1226.github.io/",
+                "google_scholar": "https://scholar.google.com/citations?user=0SkFI4MAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/151/3145.html",
+                "publications": 46,
+                "adj_count": 10.2
+            },
+            {
+                "name": "Manmohan Krishna Chandraker",
+                "area": ["vision"],
+                "homepage": "https://cseweb.ucsd.edu/~mkchandraker/",
+                "google_scholar": "https://scholar.google.com/citations?user=Ja-8AFsAAAAJ&hl=en",
+                "dblp": "https://dblp.org/pid/79/589.html",
+                "publications": 44,
+                "adj_count": 8.9
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "name": "Northwestern University",
+          "faculty": [
+            {
+              "name": "Animesh Garg",
+              "area": ["robotics", "ml"],
+              "homepage": "https://animesh.garg.tech/",
+              "google_scholar": "https://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/123/5728.html",
+              "publications": 45,
+              "adj_count": 8.1
+            },
+            {
+              "name": "Yingyan (Celine) Lin",
+              "area": ["ml"],
+              "homepage": "https://eiclab.scs.gatech.edu/",
+              "google_scholar": "https://scholar.google.com/citations?user=dio8IesAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pers/hd/l/Lin:Yingyan_(Celine)",
+              "publications": 42,
+              "adj_count": 7.0
+            },
+            {
+                "name": "Humphrey Shi",
+                "area": ["vision"],
+                "homepage": "https://www.humphreyshi.com/",
+                "google_scholar": "https://scholar.google.com/citations?user=WBvt5A8AAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/176/5516.html",
+                "publications": 37,
+                "adj_count": 6.0
+            },
+            {
+                "name": "Tuo Zhao",
+                "area": ["ml"],
+                "homepage": "https://www2.isye.gatech.edu/~tzhao80/",
+                "google_scholar": "https://scholar.google.com/citations?user=EJXN6tYAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/82/199.html",
+                "publications": 37,
+                "adj_count": 6.2
+            },
+            {
+                "name": "Pan Li 0005",
+                "area": ["ml"],
+                "homepage": "https://sites.google.com/view/panli-purdue/home",
+                "google_scholar": "https://scholar.google.com/citations?user=IroP0EwAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/72/2643-5.html",
+                "publications": 34,
+                "adj_count": 8.2
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "name": "Texas A&M University",
+          "faculty": [
+            {
+              "name": "Lu Wang 0008",
+              "area": ["nlp"],
+              "homepage": "https://web.eecs.umich.edu/~wangluxy/",
+              "google_scholar": "https://scholar.google.com/citations?user=uczqEdUAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/49/3800-8.html",
+              "publications": 33,
+              "adj_count": 8.8
+            },
+            {
+              "name": "Thatchaphol Saranurak",
+              "area": ["theory"],
+              "homepage": "https://sites.google.com/site/thsaranurak",
+              "google_scholar": "https://scholar.google.com/citations?user=y2A2tQgAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/123/4694.html",
+              "publications": 27,
+              "adj_count": 8.0
+            },
+            {
+                "name": "Justin Johnson 0001",
+                "area": ["vision"],
+                "homepage": "https://web.eecs.umich.edu/~justincj/",
+                "google_scholar": "https://scholar.google.com/citations?user=WBvt5A8AAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/04/3396-1.html",
+                "publications": 24,
+                "adj_count": 6.9
+            },
+            {
+                "name": "Andrew Owens",
+                "area": ["vision"],
+                "homepage": "https://andrewowens.com/",
+                "google_scholar": "https://scholar.google.com/citations?user=9hX-JksAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/85/2697.html",
+                "publications": 24,
+                "adj_count": 6.4
+            },
+            {
+                "name": "Rada Mihalcea",
+                "area": ["nlp"],
+                "homepage": "https://web.eecs.umich.edu/~mihalcea/",
+                "google_scholar": "https://scholar.google.com/citations?user=UetM7FgAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/m/RadaMihalcea.html",
+                "publications": 23,
+                "adj_count": 5.0
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "name": "Arizona State University",
+          "faculty": [
+            {
+              "name": "Dinesh Manocha",
+              "area": ["robotics"],
+              "homepage": "https://www.cs.unc.edu/~dm/",
+              "google_scholar": "https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/m/DineshManocha.html",
+              "publications": 89,
+              "adj_count": 19.4
+            },
+            {
+              "name": "Heng Huang",
+              "area": ["ai", "ml"],
+              "homepage": "https://www.cs.umd.edu/~heng/",
+              "google_scholar": "https://scholar.google.com/citations?user=4OqLaDwAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/03/281.html",
+              "publications": 83,
+              "adj_count": 23.6
+            },
+            {
+                "name": "Tom Goldstein",
+                "area": ["ml"],
+                "homepage": "https://www.cs.umd.edu/~tomg/",
+                "google_scholar": "https://scholar.google.com/citations?user=KmSuVtgAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/25/8184.html",
+                "publications": 63,
+                "adj_count": 11.2
+            },
+            {
+                "name": "Abhinav Shrivastava",
+                "area": ["vision"],
+                "homepage": "https://www.cs.umd.edu/~abhinav/",
+                "google_scholar": "https://scholar.google.com/citations?user=mIF9BowAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/65/10572.html",
+                "publications": 54,
+                "adj_count": 12.6
+            },
+            {
+                "name": "Furong Huang",
+                "area": ["ml"],
+                "homepage": "https://www.cs.umd.edu/people/furongh",
+                "google_scholar": "https://scholar.google.com/citations?user=13yyuCcAAAAJ&hl=en",
+                "dblp": "https://dblp.org/pid/72/8513.html",
+                "publications": 52,
+                "adj_count": 9.7
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "name": "North Carolina State University",
+          "faculty": [
+            {
+              "name": "Yejin Choi 0001",
+              "area": ["nlp"],
+              "homepage": "https://homes.cs.washington.edu/~yejin/",
+              "google_scholar": "https://scholar.google.com/citations?user=vhP-tlcAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/89/579-1.html",
+              "publications": 104,
+              "adj_count": 16.2
+            },
+            {
+              "name": "Luke Zettlemoyer",
+              "area": ["nlp"],
+              "homepage": "https://www.cs.washington.edu/people/faculty/lsz",
+              "google_scholar": "https://scholar.google.com/citations?user=UjpbO6IAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/21/6793.html",
+              "publications": 77,
+              "adj_count": 13.1
+            },
+            {
+                "name": "Hannaneh Hajishirzi",
+                "area": ["nlp"],
+                "homepage": "https://people.ece.uw.edu/bilmes/p/pgs/index.html",
+                "google_scholar": "https://scholar.google.com/citations?user=LOV6_WIAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/52/1296.html",
+                "publications": 60,
+                "adj_count": 10.5
+            },
+            {
+                "name": "Noah A. Smith",
+                "area": ["nlp"],
+                "homepage": "https://www.cs.washington.edu/people/faculty/nasmith",
+                "google_scholar": "https://scholar.google.com/citations?user=TjdFs3EAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/90/5204.html",
+                "publications": 52,
+                "adj_count": 8.9
+            },
+            {
+                "name": "Simon S. Du",
+                "area": ["ml"],
+                "homepage": "https://www.cs.washington.edu/people/faculty/ssdu",
+                "google_scholar": "https://scholar.google.com/citations?user=OttawxUAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/176/5602.html",
+                "publications": 51,
+                "adj_count": 12.8
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "name": "Johns Hopkins University",
+          "faculty": [
+            {
+              "name": "Noah Snavely",
+              "area": ["vision"],
+              "homepage": "https://www.cs.cornell.edu/~snavely/",
+              "google_scholar": "https://scholar.google.com/citations?user=Db4BCX8AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/33/4636.html",
+              "publications": 35,
+              "adj_count": 6.5
+            },
+            {
+              "name": "Bharath Hariharan",
+              "area": ["vision"],
+              "homepage": "https://www.cs.cornell.edu/~bharathh/",
+              "google_scholar": "https://scholar.google.com/citations?user=TpglobcAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/05/8412.html",
+              "publications": 33,
+              "adj_count": 7.5
+            },
+            {
+                "name": "Alexander M. Rush",
+                "area": ["nlp"],
+                "homepage": "https://people.seas.harvard.edu/~srush/",
+                "google_scholar": "https://scholar.google.com/citations?user=LIjnUGgAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/67/9012.html",
+                "publications": 29,
+                "adj_count": 6.6
+            },
+            {
+                "name": "Wen Sun 0002",
+                "area": ["ml"],
+                "homepage": "https://wensun.github.io/",
+                "google_scholar": "https://scholar.google.com/citations?user=iOLC30YAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/69/1010-2.html",
+                "publications": 29,
+                "adj_count": 7.4
+            },
+            {
+                "name": "Kilian Q. Weinberger",
+                "area": ["ml"],
+                "homepage": "https://www.cs.cornell.edu/~kilian/",
+                "google_scholar": "https://scholar.google.com/citations?user=jsxk8vsAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/88/4801.html",
+                "publications": 29,
+                "adj_count": 5.6
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "name": "Ohio State University",
+          "faculty": [
+            {
+              "name": "Daniela Rus",
+              "area": ["robotics"],
+              "homepage": "https://www.csail.mit.edu/person/daniela-rus",
+              "google_scholar": "https://scholar.google.com/citations?user=910z20QAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/r/DanielaRus.html",
+              "publications": 86,
+              "adj_count": 17.1
+            },
+            {
+              "name": "Antonio Torralba 0001",
+              "area": ["vision"],
+              "homepage": "https://groups.csail.mit.edu/vision/torralbalab/",
+              "google_scholar": "https://scholar.google.com/citations?user=8cxDHS4AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/t/AntonioBTorralba.html",
+              "publications": 69,
+              "adj_count": 11.7
+            },
+            {
+                "name": "Jacob Andreas",
+                "area": ["ml","nlp"],
+                "homepage": "https://web.mit.edu/jda/www/",
+                "google_scholar": "https://scholar.google.com/citations?user=dnZ8udEAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/97/8154.html",
+                "publications": 46,
+                "adj_count": 10.8
+            },
+            {
+                "name": "Wojciech Matusik",
+                "area": ["graphics"],
+                "homepage": "https://cdfg.csail.mit.edu/wojciech",
+                "google_scholar": "https://scholar.google.com/citations?user=wbIMbL8AAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/21/6486.html",
+                "publications": 45,
+                "adj_count": 6.7
+            },
+            {
+                "name": " Tommi S. Jaakkola",
+                "area": ["ml"],
+                "homepage": "https://people.csail.mit.edu/tommi/",
+                "google_scholar": "https://scholar.google.com/citations?user=jsxk8vsAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/j/TommiJaakkola.html",
+                "publications": 29,
+                "adj_count": 5.6
+            }
+          ]
+        },
+        {
+          "id": 40,
+          "name": "University of California - Davis",
+          "faculty": [
+            {
+              "name": "Stefano Ermon",
+              "area": ["ml"],
+              "homepage": "https://cs.stanford.edu/~ermon/",
+              "google_scholar": "https://scholar.google.com/citations?user=910z20QAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/47/8135.html",
+              "publications": 98,
+              "adj_count": 19.8
+            },
+            {
+              "name": "Jiajun Wu 0001",
+              "area": ["ml","vision"],
+              "homepage": "https://jiajunwu.com/",
+              "google_scholar": "https://scholar.google.com/citations?user=2efgcS0AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/117/4768.html",
+              "publications": 95,
+              "adj_count": 17.5
+            },
+            {
+                "name": "Chelsea Finn",
+                "area": ["ml"],
+                "homepage": "https://ai.stanford.edu/~cbfinn/",
+                "google_scholar": "https://scholar.google.com/citations?user=vfPE6hgAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/131/1783.html",
+                "publications": 92,
+                "adj_count": 16.4
+            },
+            {
+                "name": "Leonidas J. Guibas",
+                "area": ["vision"],
+                "homepage": "https://geometry.stanford.edu/member/guibas",
+                "google_scholar": "https://scholar.google.com/citations?user=5JlEyTAAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/g/LeonidasJGuibas.html",
+                "publications": 75,
+                "adj_count": 12.7
+            },
+            {
+                "name": "Diyi Yang",
+                "area": ["nlp"],
+                "homepage": "https://cs.stanford.edu/~diyiy/",
+                "google_scholar": "https://scholar.google.com/citations?user=j9jhYqQAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/70/11145.html",
+                "publications": 63,
+                "adj_count": 14.8
+            }
+          ]
+        },
+        {
+          "id": 41,
+          "name": "University at Buffalo",
+          "faculty": [
+            {
+              "name": "Sergey Levine",
+              "area": ["ml"],
+              "homepage": "https://people.eecs.berkeley.edu/~svlevine/",
+              "google_scholar": "https://scholar.google.com/citations?user=8R35rCwAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/80/7594.html",
+              "publications": 155,
+              "adj_count": 32.2
+            },
+            {
+              "name": "Pieter Abbeel",
+              "area": ["ml"],
+              "homepage": "https://people.eecs.berkeley.edu/~pabbeel/",
+              "google_scholar": "https://scholar.google.com/citations?user=vtwH6GkAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/a/PieterAbbeel.html",
+              "publications": 95,
+              "adj_count": 21.3
+            },
+            {
+                "name": "Trevor Darrell",
+                "area": ["vision"],
+                "homepage": "https://people.eecs.berkeley.edu/~trevor/",
+                "google_scholar": "https://scholar.google.com/citations?user=bh-uRFMAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/d/TrevorDarrell.html",
+                "publications": 90,
+                "adj_count": 15.8
+            },
+            {
+                "name": "Joseph Gonzalez 0001",
+                "area": ["ml"],
+                "homepage": "https://people.eecs.berkeley.edu/~jegonzal/",
+                "google_scholar": "https://scholar.google.com/citations?user=B96GkdgAAAAJ&hl=en",
+                "dblp": "https://dblp.org/pid/61/8262.html",
+                "publications": 60,
+                "adj_count": 8.7
+            },
+            {
+                "name": "Dawn Song",
+                "area": ["ml", "security"],
+                "homepage": "https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html",
+                "google_scholar": "https://scholar.google.com/citations?user=84WzBlYAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/s/DXSong.html",
+                "publications": 59,
+                "adj_count": 11.1
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "name": "University of Central Florida",
+          "faculty": [
+            {
+              "name": "Xiangyu Zhang 0001",
+              "area": ["security","se"],
+              "homepage": "https://www.cs.purdue.edu/homes/xyzhang/",
+              "google_scholar": "https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pers/hd/z/Zhang_0001:Xiangyu",
+              "publications": 51,
+              "adj_count": 8.3
+            },
+            {
+              "name": "Jianzhu Ma",
+              "area": ["ml"],
+              "homepage": "https://www.cs.purdue.edu/homes/ma634",
+              "google_scholar": "https://scholar.google.com/citations?user=AATzYuAAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/24/9080.html",
+              "publications": 27,
+              "adj_count": 5.0
+            },
+            {
+                "name": "Antonio Bianchi",
+                "area": ["security"],
+                "homepage": "https://antoniobianchi.me/",
+                "google_scholar": "https://scholar.google.com/citations?user=RMm4j1AAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/99/3883.html",
+                "publications": 23,
+                "adj_count": 4.3
+            },
+            {
+                "name": "Z. Berkay Celik",
+                "area": ["security"],
+                "homepage": "https://beerkay.github.io/",
+                "google_scholar": "https://scholar.google.com/citations?user=g1I269gAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/143/2298.html",
+                "publications": 20,
+                "adj_count": 3.7
+            },
+            {
+                "name": "Dongyan Xu",
+                "area": ["security"],
+                "homepage": "https://www.cs.purdue.edu/homes/dxu/",
+                "google_scholar": "https://scholar.google.com/citations?user=CQcd1cQAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/59/5539.html",
+                "publications": 19,
+                "adj_count": 3.6
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "name": "University of Illinois at Chicago",
+          "faculty": [
+            {
+              "name": "Yanzhi Wang",
+              "area": ["eda","ml"],
+              "homepage": "https://www.khoury.northeastern.edu/people/yanzhi-wang",
+              "google_scholar": "https://scholar.google.com/citations?user=a7akgIEAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/45/7737.html",
+              "publications": 60,
+              "adj_count": 7.4
+            },
+            {
+              "name": "Yun Fu 0001",
+              "area": ["vison","ai"],
+              "homepage": "https://www1.ece.neu.edu/~yunfu/",
+              "google_scholar": "https://scholar.google.com/citations?user=h-JEcQ8AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/00/5815-1.html",
+              "publications": 53,
+              "adj_count": 11.0
+            },
+            {
+                "name": "Robin Walters 0001",
+                "area": ["ml"],
+                "homepage": "https://www.khoury.northeastern.edu/people/robin-walters",
+                "google_scholar": "https://scholar.google.com/citations?user=fnprJmUAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/258/3416.html",
+                "publications": 26,
+                "adj_count": 6.2
+            },
+            {
+                "name": "Devesh Tiwari",
+                "area": ["hpc"],
+                "homepage": "https://www.northeastern.edu/",
+                "google_scholar": "https://scholar.google.com/citations?user=g1I269gAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/76/9083.html",
+                "publications": 20,
+                "adj_count": 3.7
+            },
+            {
+                "name": "Byron C. Wallace",
+                "area": ["nlp"],
+                "homepage": "https://www.byronwallace.com/",
+                "google_scholar": "https://scholar.google.com/citations?user=KTzRHmwAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/00/8247.html",
+                "publications": 24,
+                "adj_count": 5.4
+            }
+          ]
+        },  
+        {
+          "id": 44,
+          "name": "Yale University",
+          "faculty": [
+            {
+              "name": "Felix Heide",
+              "area": ["vision"],
+              "homepage": "https://www.cs.princeton.edu/~fheide/",
+              "google_scholar": "https://scholar.google.com/citations?user=gRqzSHsAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pers/hd/h/Heide:Felix",
+              "publications": 48,
+              "adj_count": 10.2
+            },
+            {
+              "name": "Jason D. Lee",
+              "area": ["ml"],
+              "homepage": "https://jasondlee88.github.io/",
+              "google_scholar": "https://scholar.google.com/citations?user=GR_DsT0AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/88/3262.html",
+              "publications": 47,
+              "adj_count": 11.3
+            },
+            {
+                "name": "Danqi Chen 0001",
+                "area": ["nlp"],
+                "homepage": "https://www.cs.princeton.edu/~danqic/",
+                "google_scholar": "https://scholar.google.com/citations?user=sVR8ktkAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pers/hd/c/Chen_0001:Danqi",
+                "publications": 41,
+                "adj_count": 10.2
+            },
+            {
+                "name": "Prateek Mittal",
+                "area": ["security","ml"],
+                "homepage": "https://www.princeton.edu/~pmittal/",
+                "google_scholar": "https://scholar.google.com/citations?user=xTKD8J4AAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/39/6266.html",
+                "publications": 37,
+                "adj_count": 7.9
+            },
+            {
+                "name": "Benjamin Eysenbach",
+                "area": ["ml"],
+                "homepage": "https://www.cs.princeton.edu/people/profile/eysenbach",
+                "google_scholar": "https://scholar.google.com/citations?user=DRnOvU8AAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/192/1863.html",
+                "publications": 30,
+                "adj_count": 7.1
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "name": "Boston University",
+          "faculty": [
+            {
+              "name": "Andrew Gordon Wilson",
+              "area": ["ml"],
+              "homepage": "https://cims.nyu.edu/~andrewgw/",
+              "google_scholar": "https://scholar.google.com/citations?user=twWX2LIAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/65/10453.html",
+              "publications": 48,
+              "adj_count": 11.0
+            },
+            {
+              "name": "Kyunghyun Cho",
+              "area": ["ml","nlp"],
+              "homepage": "https://www.kyunghyuncho.me/",
+              "google_scholar": "https://scholar.google.com/citations?user=0RAmmIAAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/41/9736.html",
+              "publications": 30,
+              "adj_count": 6.9
+            },
+            {
+                "name": "Lerrel Pinto",
+                "area": ["ml","robotics"],
+                "homepage": "https://www.lerrelpinto.com/",
+                "google_scholar": "https://scholar.google.com/citations?user=pmVPj94AAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/168/8304.html",
+                "publications": 27,
+                "adj_count": 6.3
+            },
+            {
+                "name": "Joan Bruna",
+                "area": ["ml"],
+                "homepage": "https://cs.nyu.edu/~bruna/",
+                "google_scholar": "https://scholar.google.com/citations?user=L4bNmsMAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/44/8776.html",
+                "publications": 24,
+                "adj_count": 7.6
+            },
+            {
+                "name": "Eunsol Choi",
+                "area": ["nlp"],
+                "homepage": "https://eunsol.github.io/",
+                "google_scholar": "https://scholar.google.com/citations?user=dCEcahMAAAAJ&hl=en&oi=ao",
+                "dblp": "https://dblp.org/pid/116/2765.html",
+                "publications": 24,
+                "adj_count": 6.8
+            }
+          ]
+        },
+    {
+      "id": 46,
+      "name": "Brown University",
+      "faculty": [
+        {
+          "name": "Graham Neubig",
+          "area": ["nlp"],
+          "homepage": "https://www.phontron.com/",
+          "google_scholar": "https://scholar.google.com/citations?user=wlosgkoAAAAJ&hl=en&oi=ao",
+          "dblp": "https://scholar.google.com/citations?user=wlosgkoAAAAJ&hl=en&oi=ao",
+          "publications": 80,
+          "adj_count": 17.0
+        },
+        {
+          "name": "J. Zico Kolter",
+          "area": ["ml"],
+          "homepage": "https://zicokolter.com/",
+          "google_scholar": "https://scholar.google.com/citations?user=UXh1I6UAAAAJ&hl=en&oi=ao",
+          "dblp": "https://dblp.org/pid/67/2526.html",
+          "publications": 71,
+          "adj_count": 18.2
+        },
+        {
+          "name": "David P. Woodruff",
+          "area": ["ml", "theory"],
+          "homepage": "https://www.cs.cmu.edu/~dwoodruf/",
+          "google_scholar": "https://scholar.google.com/citations?user=kMmxbbIAAAAJ&hl=en&oi=ao",
+          "dblp": "https://dblp.org/pid/w/DPWoodruff.html",
+          "publications": 65,
+          "adj_count": 20.5
+        },
+        {
+            "name": "Lei Li 0005",
+            "area": ["nlp"],
+            "homepage": "https://lileicc.github.io/",
+            "google_scholar": "https://scholar.google.com/citations?user=BYXqAlwAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/13/7007-5.html",
+            "publications": 59,
+            "adj_count": 12.3
+          },
+          {
+            "name": "Deva Ramanan",
+            "area": ["vision"],
+            "homepage": "https://www.cs.cmu.edu/~deva/",
+            "google_scholar": "https://scholar.google.com/citations?user=9B8PoXUAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/49/488.html",
+            "publications": 54,
+            "adj_count": 11.6
+          }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Rochester Institute of Technology",
+      "faculty": [
+        {
+          "name": "Heng Ji",
+          "area": ["nlp"],
+          "homepage": "https://blender.cs.illinois.edu/hengji.html",
+          "google_scholar": "https://scholar.google.com/citations?user=z7GCqT4AAAAJ&hl=en&oi=ao",
+          "dblp": "https://dblp.org/pid/61/2408.html",
+          "publications": 86,
+          "adj_count": 17.1
+        },
+        {
+          "name": "Jiawei Han 0001",
+          "area": ["nlp", "web+ir"],
+          "homepage": "https://hanj.cs.illinois.edu/",
+          "google_scholar": "https://scholar.google.com/citations?user=Kv9AbjMAAAAJ&hl=en&oi=ao",
+          "dblp": "https://dblp.org/pid/h/JiaweiHan.html",
+          "publications": 69,
+          "adj_count": 12.1
+        },
+        {
+            "name": "Yu-Xiong Wang",
+            "area": ["vision", "ml"],
+            "homepage": "https://yxw.web.illinois.edu/",
+            "google_scholar": "https://scholar.google.com/citations?user=T_Q-xDkAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/35/10700.html",
+            "publications": 50,
+            "adj_count": 13.3
+        },
+        {
+            "name": "Alexander G. Schwing",
+            "area": ["vision", "ml"],
+            "homepage": "https://www.alexander-schwing.de/",
+            "google_scholar": "https://scholar.google.com/citations?user=3B2c31wAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/79/9775.html",
+            "publications": 46,
+            "adj_count": 10.9
+        },
+        {
+            "name": "Jimeng Sun 0001",
+            "area": ["ai", "ml"],
+            "homepage": "http://sunlab.org/",
+            "google_scholar": "https://scholar.google.com/citations?user=9jmmp5sAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/54/4948.html",
+            "publications": 43,
+            "adj_count": 10.8
+        }
+      ]
+    },
+    {
+        "id": 48,
+        "name": "University of Minnesota",
+        "faculty": [
+          {
+            "name": "Xiaolong Wang 0004",
+            "area": ["vision", "ml"],
+            "homepage": "https://xiaolonw.github.io/",
+            "google_scholar": "https://scholar.google.com/citations?user=Y8O9N_0AAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/91/952-4.html",
+            "publications": 70,
+            "adj_count": 15.9
+          },
+          {
+            "name": "Hao Su 0001",
+            "area": ["vision", "ml"],
+            "homepage": "https://ai.ucsd.edu/~haosu",
+            "google_scholar": "https://scholar.google.com/citations?user=1P8Zu04AAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pers/hd/s/Su_0001:Hao",
+            "publications": 49,
+            "adj_count": 8.2
+          },
+          {
+              "name": "Julian J. McAuley",
+              "area": ["nlp"],
+              "homepage": "https://cseweb.ucsd.edu/~jmcauley/",
+              "google_scholar": "https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/29/3483.html",
+              "publications": 46,
+              "adj_count": 10.5
+          },
+          {
+              "name": "Jingbo Shang",
+              "area": ["nlp"],
+              "homepage": "https://shangjingbo1226.github.io/",
+              "google_scholar": "https://scholar.google.com/citations?user=0SkFI4MAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/151/3145.html",
+              "publications": 46,
+              "adj_count": 10.2
+          },
+          {
+              "name": "Manmohan Krishna Chandraker",
+              "area": ["vision"],
+              "homepage": "https://cseweb.ucsd.edu/~mkchandraker/",
+              "google_scholar": "https://scholar.google.com/citations?user=Ja-8AFsAAAAJ&hl=en",
+              "dblp": "https://dblp.org/pid/79/589.html",
+              "publications": 44,
+              "adj_count": 8.9
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "name": "University of North Carolina",
+        "faculty": [
+          {
+            "name": "Animesh Garg",
+            "area": ["robotics", "ml"],
+            "homepage": "https://animesh.garg.tech/",
+            "google_scholar": "https://scholar.google.com/citations?user=zp8V7ZMAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/123/5728.html",
+            "publications": 45,
+            "adj_count": 8.1
+          },
+          {
+            "name": "Yingyan (Celine) Lin",
+            "area": ["ml"],
+            "homepage": "https://eiclab.scs.gatech.edu/",
+            "google_scholar": "https://scholar.google.com/citations?user=dio8IesAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pers/hd/l/Lin:Yingyan_(Celine)",
+            "publications": 42,
+            "adj_count": 7.0
+          },
+          {
+              "name": "Humphrey Shi",
+              "area": ["vision"],
+              "homepage": "https://www.humphreyshi.com/",
+              "google_scholar": "https://scholar.google.com/citations?user=WBvt5A8AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/176/5516.html",
+              "publications": 37,
+              "adj_count": 6.0
+          },
+          {
+              "name": "Tuo Zhao",
+              "area": ["ml"],
+              "homepage": "https://www2.isye.gatech.edu/~tzhao80/",
+              "google_scholar": "https://scholar.google.com/citations?user=EJXN6tYAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/82/199.html",
+              "publications": 37,
+              "adj_count": 6.2
+          },
+          {
+              "name": "Pan Li 0005",
+              "area": ["ml"],
+              "homepage": "https://sites.google.com/view/panli-purdue/home",
+              "google_scholar": "https://scholar.google.com/citations?user=IroP0EwAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/72/2643-5.html",
+              "publications": 34,
+              "adj_count": 8.2
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "name": "Harvard University",
+        "faculty": [
+          {
+            "name": "Lu Wang 0008",
+            "area": ["nlp"],
+            "homepage": "https://web.eecs.umich.edu/~wangluxy/",
+            "google_scholar": "https://scholar.google.com/citations?user=uczqEdUAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/49/3800-8.html",
+            "publications": 33,
+            "adj_count": 8.8
+          },
+          {
+            "name": "Thatchaphol Saranurak",
+            "area": ["theory"],
+            "homepage": "https://sites.google.com/site/thsaranurak",
+            "google_scholar": "https://scholar.google.com/citations?user=y2A2tQgAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/123/4694.html",
+            "publications": 27,
+            "adj_count": 8.0
+          },
+          {
+              "name": "Justin Johnson 0001",
+              "area": ["vision"],
+              "homepage": "https://web.eecs.umich.edu/~justincj/",
+              "google_scholar": "https://scholar.google.com/citations?user=WBvt5A8AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/04/3396-1.html",
+              "publications": 24,
+              "adj_count": 6.9
+          },
+          {
+              "name": "Andrew Owens",
+              "area": ["vision"],
+              "homepage": "https://andrewowens.com/",
+              "google_scholar": "https://scholar.google.com/citations?user=9hX-JksAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/85/2697.html",
+              "publications": 24,
+              "adj_count": 6.4
+          },
+          {
+              "name": "Rada Mihalcea",
+              "area": ["nlp"],
+              "homepage": "https://web.eecs.umich.edu/~mihalcea/",
+              "google_scholar": "https://scholar.google.com/citations?user=UetM7FgAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/m/RadaMihalcea.html",
+              "publications": 23,
+              "adj_count": 5.0
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "name": "Indiana University",
+        "faculty": [
+          {
+            "name": "Dinesh Manocha",
+            "area": ["robotics"],
+            "homepage": "https://www.cs.unc.edu/~dm/",
+            "google_scholar": "https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/m/DineshManocha.html",
+            "publications": 89,
+            "adj_count": 19.4
+          },
+          {
+            "name": "Heng Huang",
+            "area": ["ai", "ml"],
+            "homepage": "https://www.cs.umd.edu/~heng/",
+            "google_scholar": "https://scholar.google.com/citations?user=4OqLaDwAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/03/281.html",
+            "publications": 83,
+            "adj_count": 23.6
+          },
+          {
+              "name": "Tom Goldstein",
+              "area": ["ml"],
+              "homepage": "https://www.cs.umd.edu/~tomg/",
+              "google_scholar": "https://scholar.google.com/citations?user=KmSuVtgAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/25/8184.html",
+              "publications": 63,
+              "adj_count": 11.2
+          },
+          {
+              "name": "Abhinav Shrivastava",
+              "area": ["vision"],
+              "homepage": "https://www.cs.umd.edu/~abhinav/",
+              "google_scholar": "https://scholar.google.com/citations?user=mIF9BowAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/65/10572.html",
+              "publications": 54,
+              "adj_count": 12.6
+          },
+          {
+              "name": "Furong Huang",
+              "area": ["ml"],
+              "homepage": "https://www.cs.umd.edu/people/furongh",
+              "google_scholar": "https://scholar.google.com/citations?user=13yyuCcAAAAJ&hl=en",
+              "dblp": "https://dblp.org/pid/72/8513.html",
+              "publications": 52,
+              "adj_count": 9.7
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "name": "Rice University",
+        "faculty": [
+          {
+            "name": "Yejin Choi 0001",
+            "area": ["nlp"],
+            "homepage": "https://homes.cs.washington.edu/~yejin/",
+            "google_scholar": "https://scholar.google.com/citations?user=vhP-tlcAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/89/579-1.html",
+            "publications": 104,
+            "adj_count": 16.2
+          },
+          {
+            "name": "Luke Zettlemoyer",
+            "area": ["nlp"],
+            "homepage": "https://www.cs.washington.edu/people/faculty/lsz",
+            "google_scholar": "https://scholar.google.com/citations?user=UjpbO6IAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/21/6793.html",
+            "publications": 77,
+            "adj_count": 13.1
+          },
+          {
+              "name": "Hannaneh Hajishirzi",
+              "area": ["nlp"],
+              "homepage": "https://people.ece.uw.edu/bilmes/p/pgs/index.html",
+              "google_scholar": "https://scholar.google.com/citations?user=LOV6_WIAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/52/1296.html",
+              "publications": 60,
+              "adj_count": 10.5
+          },
+          {
+              "name": "Noah A. Smith",
+              "area": ["nlp"],
+              "homepage": "https://www.cs.washington.edu/people/faculty/nasmith",
+              "google_scholar": "https://scholar.google.com/citations?user=TjdFs3EAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/90/5204.html",
+              "publications": 52,
+              "adj_count": 8.9
+          },
+          {
+              "name": "Simon S. Du",
+              "area": ["ml"],
+              "homepage": "https://www.cs.washington.edu/people/faculty/ssdu",
+              "google_scholar": "https://scholar.google.com/citations?user=OttawxUAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/176/5602.html",
+              "publications": 51,
+              "adj_count": 12.8
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "name": "University of Colorado Boulder",
+        "faculty": [
+          {
+            "name": "Noah Snavely",
+            "area": ["vision"],
+            "homepage": "https://www.cs.cornell.edu/~snavely/",
+            "google_scholar": "https://scholar.google.com/citations?user=Db4BCX8AAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/33/4636.html",
+            "publications": 35,
+            "adj_count": 6.5
+          },
+          {
+            "name": "Bharath Hariharan",
+            "area": ["vision"],
+            "homepage": "https://www.cs.cornell.edu/~bharathh/",
+            "google_scholar": "https://scholar.google.com/citations?user=TpglobcAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/05/8412.html",
+            "publications": 33,
+            "adj_count": 7.5
+          },
+          {
+              "name": "Alexander M. Rush",
+              "area": ["nlp"],
+              "homepage": "https://people.seas.harvard.edu/~srush/",
+              "google_scholar": "https://scholar.google.com/citations?user=LIjnUGgAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/67/9012.html",
+              "publications": 29,
+              "adj_count": 6.6
+          },
+          {
+              "name": "Wen Sun 0002",
+              "area": ["ml"],
+              "homepage": "https://wensun.github.io/",
+              "google_scholar": "https://scholar.google.com/citations?user=iOLC30YAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/69/1010-2.html",
+              "publications": 29,
+              "adj_count": 7.4
+          },
+          {
+              "name": "Kilian Q. Weinberger",
+              "area": ["ml"],
+              "homepage": "https://www.cs.cornell.edu/~kilian/",
+              "google_scholar": "https://scholar.google.com/citations?user=jsxk8vsAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/88/4801.html",
+              "publications": 29,
+              "adj_count": 5.6
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "name": "Michigan State University",
+        "faculty": [
+          {
+            "name": "Daniela Rus",
+            "area": ["robotics"],
+            "homepage": "https://www.csail.mit.edu/person/daniela-rus",
+            "google_scholar": "https://scholar.google.com/citations?user=910z20QAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/r/DanielaRus.html",
+            "publications": 86,
+            "adj_count": 17.1
+          },
+          {
+            "name": "Antonio Torralba 0001",
+            "area": ["vision"],
+            "homepage": "https://groups.csail.mit.edu/vision/torralbalab/",
+            "google_scholar": "https://scholar.google.com/citations?user=8cxDHS4AAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/t/AntonioBTorralba.html",
+            "publications": 69,
+            "adj_count": 11.7
+          },
+          {
+              "name": "Jacob Andreas",
+              "area": ["ml","nlp"],
+              "homepage": "https://web.mit.edu/jda/www/",
+              "google_scholar": "https://scholar.google.com/citations?user=dnZ8udEAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/97/8154.html",
+              "publications": 46,
+              "adj_count": 10.8
+          },
+          {
+              "name": "Wojciech Matusik",
+              "area": ["graphics"],
+              "homepage": "https://cdfg.csail.mit.edu/wojciech",
+              "google_scholar": "https://scholar.google.com/citations?user=wbIMbL8AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/21/6486.html",
+              "publications": 45,
+              "adj_count": 6.7
+          },
+          {
+              "name": " Tommi S. Jaakkola",
+              "area": ["ml"],
+              "homepage": "https://people.csail.mit.edu/tommi/",
+              "google_scholar": "https://scholar.google.com/citations?user=jsxk8vsAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/j/TommiJaakkola.html",
+              "publications": 29,
+              "adj_count": 5.6
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "name": "Oregon State University",
+        "faculty": [
+          {
+            "name": "Stefano Ermon",
+            "area": ["ml"],
+            "homepage": "https://cs.stanford.edu/~ermon/",
+            "google_scholar": "https://scholar.google.com/citations?user=910z20QAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/47/8135.html",
+            "publications": 98,
+            "adj_count": 19.8
+          },
+          {
+            "name": "Jiajun Wu 0001",
+            "area": ["ml","vision"],
+            "homepage": "https://jiajunwu.com/",
+            "google_scholar": "https://scholar.google.com/citations?user=2efgcS0AAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/117/4768.html",
+            "publications": 95,
+            "adj_count": 17.5
+          },
+          {
+              "name": "Chelsea Finn",
+              "area": ["ml"],
+              "homepage": "https://ai.stanford.edu/~cbfinn/",
+              "google_scholar": "https://scholar.google.com/citations?user=vfPE6hgAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/131/1783.html",
+              "publications": 92,
+              "adj_count": 16.4
+          },
+          {
+              "name": "Leonidas J. Guibas",
+              "area": ["vision"],
+              "homepage": "https://geometry.stanford.edu/member/guibas",
+              "google_scholar": "https://scholar.google.com/citations?user=5JlEyTAAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/g/LeonidasJGuibas.html",
+              "publications": 75,
+              "adj_count": 12.7
+          },
+          {
+              "name": "Diyi Yang",
+              "area": ["nlp"],
+              "homepage": "https://cs.stanford.edu/~diyiy/",
+              "google_scholar": "https://scholar.google.com/citations?user=j9jhYqQAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/70/11145.html",
+              "publications": 63,
+              "adj_count": 14.8
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "name": "University of Rochester",
+        "faculty": [
+          {
+            "name": "Sergey Levine",
+            "area": ["ml"],
+            "homepage": "https://people.eecs.berkeley.edu/~svlevine/",
+            "google_scholar": "https://scholar.google.com/citations?user=8R35rCwAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/80/7594.html",
+            "publications": 155,
+            "adj_count": 32.2
+          },
+          {
+            "name": "Pieter Abbeel",
+            "area": ["ml"],
+            "homepage": "https://people.eecs.berkeley.edu/~pabbeel/",
+            "google_scholar": "https://scholar.google.com/citations?user=vtwH6GkAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/a/PieterAbbeel.html",
+            "publications": 95,
+            "adj_count": 21.3
+          },
+          {
+              "name": "Trevor Darrell",
+              "area": ["vision"],
+              "homepage": "https://people.eecs.berkeley.edu/~trevor/",
+              "google_scholar": "https://scholar.google.com/citations?user=bh-uRFMAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/d/TrevorDarrell.html",
+              "publications": 90,
+              "adj_count": 15.8
+          },
+          {
+              "name": "Joseph Gonzalez 0001",
+              "area": ["ml"],
+              "homepage": "https://people.eecs.berkeley.edu/~jegonzal/",
+              "google_scholar": "https://scholar.google.com/citations?user=B96GkdgAAAAJ&hl=en",
+              "dblp": "https://dblp.org/pid/61/8262.html",
+              "publications": 60,
+              "adj_count": 8.7
+          },
+          {
+              "name": "Dawn Song",
+              "area": ["ml", "security"],
+              "homepage": "https://www2.eecs.berkeley.edu/Faculty/Homepages/song.html",
+              "google_scholar": "https://scholar.google.com/citations?user=84WzBlYAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/s/DXSong.html",
+              "publications": 59,
+              "adj_count": 11.1
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "name": "University of Delaware",
+        "faculty": [
+          {
+            "name": "Xiangyu Zhang 0001",
+            "area": ["security","se"],
+            "homepage": "https://www.cs.purdue.edu/homes/xyzhang/",
+            "google_scholar": "https://scholar.google.com/citations?user=yuB-cfoAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pers/hd/z/Zhang_0001:Xiangyu",
+            "publications": 51,
+            "adj_count": 8.3
+          },
+          {
+            "name": "Jianzhu Ma",
+            "area": ["ml"],
+            "homepage": "https://www.cs.purdue.edu/homes/ma634",
+            "google_scholar": "https://scholar.google.com/citations?user=AATzYuAAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/24/9080.html",
+            "publications": 27,
+            "adj_count": 5.0
+          },
+          {
+              "name": "Antonio Bianchi",
+              "area": ["security"],
+              "homepage": "https://antoniobianchi.me/",
+              "google_scholar": "https://scholar.google.com/citations?user=RMm4j1AAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/99/3883.html",
+              "publications": 23,
+              "adj_count": 4.3
+          },
+          {
+              "name": "Z. Berkay Celik",
+              "area": ["security"],
+              "homepage": "https://beerkay.github.io/",
+              "google_scholar": "https://scholar.google.com/citations?user=g1I269gAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/143/2298.html",
+              "publications": 20,
+              "adj_count": 3.7
+          },
+          {
+              "name": "Dongyan Xu",
+              "area": ["security"],
+              "homepage": "https://www.cs.purdue.edu/homes/dxu/",
+              "google_scholar": "https://scholar.google.com/citations?user=CQcd1cQAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/59/5539.html",
+              "publications": 19,
+              "adj_count": 3.6
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "name": "College of William and Mary",
+        "faculty": [
+          {
+            "name": "Yanzhi Wang",
+            "area": ["eda","ml"],
+            "homepage": "https://www.khoury.northeastern.edu/people/yanzhi-wang",
+            "google_scholar": "https://scholar.google.com/citations?user=a7akgIEAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/45/7737.html",
+            "publications": 60,
+            "adj_count": 7.4
+          },
+          {
+            "name": "Yun Fu 0001",
+            "area": ["vison","ai"],
+            "homepage": "https://www1.ece.neu.edu/~yunfu/",
+            "google_scholar": "https://scholar.google.com/citations?user=h-JEcQ8AAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/00/5815-1.html",
+            "publications": 53,
+            "adj_count": 11.0
+          },
+          {
+              "name": "Robin Walters 0001",
+              "area": ["ml"],
+              "homepage": "https://www.khoury.northeastern.edu/people/robin-walters",
+              "google_scholar": "https://scholar.google.com/citations?user=fnprJmUAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/258/3416.html",
+              "publications": 26,
+              "adj_count": 6.2
+          },
+          {
+              "name": "Devesh Tiwari",
+              "area": ["hpc"],
+              "homepage": "https://www.northeastern.edu/",
+              "google_scholar": "https://scholar.google.com/citations?user=g1I269gAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/76/9083.html",
+              "publications": 20,
+              "adj_count": 3.7
+          },
+          {
+              "name": "Byron C. Wallace",
+              "area": ["nlp"],
+              "homepage": "https://www.byronwallace.com/",
+              "google_scholar": "https://scholar.google.com/citations?user=KTzRHmwAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/00/8247.html",
+              "publications": 24,
+              "adj_count": 5.4
+          }
+        ]
+      },  
+      {
+        "id": 59,
+        "name": "Dartmouth College",
+        "faculty": [
+          {
+            "name": "Felix Heide",
+            "area": ["vision"],
+            "homepage": "https://www.cs.princeton.edu/~fheide/",
+            "google_scholar": "https://scholar.google.com/citations?user=gRqzSHsAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pers/hd/h/Heide:Felix",
+            "publications": 48,
+            "adj_count": 10.2
+          },
+          {
+            "name": "Jason D. Lee",
+            "area": ["ml"],
+            "homepage": "https://jasondlee88.github.io/",
+            "google_scholar": "https://scholar.google.com/citations?user=GR_DsT0AAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/88/3262.html",
+            "publications": 47,
+            "adj_count": 11.3
+          },
+          {
+              "name": "Danqi Chen 0001",
+              "area": ["nlp"],
+              "homepage": "https://www.cs.princeton.edu/~danqic/",
+              "google_scholar": "https://scholar.google.com/citations?user=sVR8ktkAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pers/hd/c/Chen_0001:Danqi",
+              "publications": 41,
+              "adj_count": 10.2
+          },
+          {
+              "name": "Prateek Mittal",
+              "area": ["security","ml"],
+              "homepage": "https://www.princeton.edu/~pmittal/",
+              "google_scholar": "https://scholar.google.com/citations?user=xTKD8J4AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/39/6266.html",
+              "publications": 37,
+              "adj_count": 7.9
+          },
+          {
+              "name": "Benjamin Eysenbach",
+              "area": ["ml"],
+              "homepage": "https://www.cs.princeton.edu/people/profile/eysenbach",
+              "google_scholar": "https://scholar.google.com/citations?user=DRnOvU8AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/192/1863.html",
+              "publications": 30,
+              "adj_count": 7.1
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Florida State University",
+        "faculty": [
+          {
+            "name": "Andrew Gordon Wilson",
+            "area": ["ml"],
+            "homepage": "https://cims.nyu.edu/~andrewgw/",
+            "google_scholar": "https://scholar.google.com/citations?user=twWX2LIAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/65/10453.html",
+            "publications": 48,
+            "adj_count": 11.0
+          },
+          {
+            "name": "Kyunghyun Cho",
+            "area": ["ml","nlp"],
+            "homepage": "https://www.kyunghyuncho.me/",
+            "google_scholar": "https://scholar.google.com/citations?user=0RAmmIAAAAAJ&hl=en&oi=ao",
+            "dblp": "https://dblp.org/pid/41/9736.html",
+            "publications": 30,
+            "adj_count": 6.9
+          },
+          {
+              "name": "Lerrel Pinto",
+              "area": ["ml","robotics"],
+              "homepage": "https://www.lerrelpinto.com/",
+              "google_scholar": "https://scholar.google.com/citations?user=pmVPj94AAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/168/8304.html",
+              "publications": 27,
+              "adj_count": 6.3
+          },
+          {
+              "name": "Joan Bruna",
+              "area": ["ml"],
+              "homepage": "https://cs.nyu.edu/~bruna/",
+              "google_scholar": "https://scholar.google.com/citations?user=L4bNmsMAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/44/8776.html",
+              "publications": 24,
+              "adj_count": 7.6
+          },
+          {
+              "name": "Eunsol Choi",
+              "area": ["nlp"],
+              "homepage": "https://eunsol.github.io/",
+              "google_scholar": "https://scholar.google.com/citations?user=dCEcahMAAAAJ&hl=en&oi=ao",
+              "dblp": "https://dblp.org/pid/116/2765.html",
+              "publications": 24,
+              "adj_count": 6.8
+          }
+        ]
+      }
+  ]
+  
